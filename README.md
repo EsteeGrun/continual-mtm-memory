@@ -118,32 +118,6 @@ Main comparison file:
 
 `results/intent/day7_comparison.csv`
 
-## Day 7 progress
-
-Performed an inference-time weight sweep over the multi-timescale memory heads.
-
-Goal:
-
-Test whether the Day 6 MTM prototype underperformed because of the architecture itself or because of poor fixed fusion weights.
-
-Tested configurations included:
-
-- medium only
-- medium-heavy combinations
-- no-fast combinations
-- balanced fast/medium/slow baseline from Day 6
-
-Interpretation:
-
-The Day 6 prototype showed that fast, medium, and slow heads behave differently. Day 7 tests which memory combination gives the best stability-plasticity tradeoff.
-
-Output directory:
-
-`results/intent/mtm_weight_sweep/`
-
-Main comparison file:
-
-`results/intent/day7_comparison.csv`
 
 ## Day 7 result
 
