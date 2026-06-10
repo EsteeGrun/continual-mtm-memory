@@ -34,3 +34,6 @@ data/cache/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# Data can be regenerated from Hugging Face
+data/
