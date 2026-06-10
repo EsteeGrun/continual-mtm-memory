@@ -1,0 +1,4 @@
+Best config by final average accuracy: no_fast_90_10
+Final average accuracy: 0.5922
+Average forgetting excluding final task: 0.2909
+Weights: fast=0.0, medium=0.9, slow=0.1

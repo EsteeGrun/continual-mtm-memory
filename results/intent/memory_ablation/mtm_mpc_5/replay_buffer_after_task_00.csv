@@ -1,0 +1,76 @@
+text,label,label_text,global_label,task_id
+does ruby tuesday accept reservations,9,accept_reservations,0,0
+are reservations allowed at burger king,9,accept_reservations,0,0
+do they take reservations at bar tartine,9,accept_reservations,0,0
+is there evening reservations available in the eve,9,accept_reservations,0,0
+how many culver's take reservations,9,accept_reservations,0,0
+what are your pets,34,do_you_have_pets,38,0
+why types of animals do you currently have as pets,34,do_you_have_pets,38,0
+tell me what kinds of pets you have,34,do_you_have_pets,38,0
+i need to know whether you are a cat or dog person,34,do_you_have_pets,38,0
+let me know if you are a cat or dog person,34,do_you_have_pets,38,0
+what is the exchange rate for canadian dollars to us dollars,38,exchange_rate,39,0
+how much is 500 dollars in pesos,38,exchange_rate,39,0
+exchange rate between mexico and us,38,exchange_rate,39,0
+how many pesos in one dollar us,38,exchange_rate,39,0
+how much dollars do i receive if i trade in 6 yens,38,exchange_rate,39,0
+when is my card going to expire,44,expiration_date,40,0
+what date does my capital one card expire,44,expiration_date,40,0
+please find out the expiration date for my credit card,44,expiration_date,40,0
+my card expires in what month,44,expiration_date,40,0
+what's the month that my card expires,44,expiration_date,40,0
+i'm vacationing in israel will i need a visa,59,international_visa,61,0
+do i need an international visa to go to england,59,international_visa,61,0
+do i need a visa to leave the country,59,international_visa,61,0
+do i need a travel visa to visit japan,59,international_visa,61,0
+i am going to germany soon do i need a visa,59,international_visa,61,0
+when was the last time my car was in the shop,37,last_maintenance,63,0
+look up the date of my last oil change,37,last_maintenance,63,0
+how long ago did my car get looked at,37,last_maintenance,63,0
+"i can't remember when my car last went to the shop, can you find out for me",37,last_maintenance,63,0
+when was my car last worked on,37,last_maintenance,63,0
+use my phone to dial work,25,make_call,65,0
+please dial christie's number,25,make_call,65,0
+call robby,25,make_call,65,0
+get a hold of sue,25,make_call,65,0
+phone call secretary,25,make_call,65,0
+give me the next song,118,next_song,75,0
+i need you to play the next song on this playlist,118,next_song,75,0
+let's play the next song now,118,next_song,75,0
+play the next song,118,next_song,75,0
+what's next on the list,118,next_song,75,0
+change the pin on my bofa account to 3892,89,pin_change,85,0
+i am unable to remember what my pin is for my bank of america checking account,89,pin_change,85,0
+on account ending in 3838 change my pin to 1234,89,pin_change,85,0
+i must change my pin number for my account,89,pin_change,85,0
+please go and change the pin on my bank of america account to be 1234,89,pin_change,85,0
+please reminder for car meet,53,reminder_update,95,0
+make a reminder to change the cat litter,53,reminder_update,95,0
+"open up a reminder, pay taxes on monday",53,reminder_update,95,0
+set a reminder to go dress shopping,53,reminder_update,95,0
+can you set a reminder for the meeting,53,reminder_update,95,0
+can you hook me up with a meeting room on saturday morning at 10am,18,schedule_meeting,109,0
+can you put in a meeting for the blue room on friday,18,schedule_meeting,109,0
+can you schedule a meeting with matt for 3,18,schedule_meeting,109,0
+set a meeting with tom for 5:30 tomorrow,18,schedule_meeting,109,0
+i have to meet with sam at 9:00am in two days,18,schedule_meeting,109,0
+move 100 dollars from checking to savings,133,transfer,130,0
+i need to move money from one account to another,133,transfer,130,0
+please transfer $s from saving to checking,133,transfer,130,0
+i want to transfer funds between accounts,133,transfer,130,0
+i would like to make a transfer,133,transfer,130,0
+the bank should know i am going to asia soon,146,travel_notification,133,0
+i'm traveling to morocco soon and want to inform my bank,146,travel_notification,133,0
+let me bank know i will be in brazil from june 1st to july 1st,146,travel_notification,133,0
+tell my bank i'll be in jamaica from the 4th to the 11th,146,travel_notification,133,0
+notify my bank i'll be in rome from the 1st to the 17th,146,travel_notification,133,0
+what are your best travel suggestions,149,travel_suggestion,134,0
+do you know of any activities in nashville,149,travel_suggestion,134,0
+"what do you suggest for entertainment in tampa, florida",149,travel_suggestion,134,0
+what are the big tourist sites in sweden,149,travel_suggestion,134,0
+what does kentucky have to offer for things to do,149,travel_suggestion,134,0
+what you do at the free time,15,what_are_your_hobbies,141,0
+what do you do for hobbies,15,what_are_your_hobbies,141,0
+what makes you happy in your free time,15,what_are_your_hobbies,141,0
+what kinds of hobbies do you enjoy,15,what_are_your_hobbies,141,0
+what other hobbies do you enjoy,15,what_are_your_hobbies,141,0

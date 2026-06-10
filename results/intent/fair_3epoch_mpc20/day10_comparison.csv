@@ -1,0 +1,3 @@
+method,epochs,memory_examples,final_average_accuracy,avg_forgetting_including_final,avg_forgetting_excluding_final
+replay_frozen_mpc20_e3,3,3000,0.7835555555555557,0.14222222222222222,0.1580246913580247
+mtm_no_fast_90_10_mpc20_e3,3,3000,0.7931111111111111,0.12955555555555548,0.14395061728395053

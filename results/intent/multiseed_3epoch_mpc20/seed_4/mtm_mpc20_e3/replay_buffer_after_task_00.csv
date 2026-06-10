@@ -1,0 +1,301 @@
+text,label,label_text,global_label,task_id
+do they take reservations at carrabbas,9,accept_reservations,0,0
+does burger king accept reservations,9,accept_reservations,0,0
+does the restaurant michael's take reservations,9,accept_reservations,0,0
+does gramercy tavern accept reservations,9,accept_reservations,0,0
+does minnis take reservations,9,accept_reservations,0,0
+do they take reservations at outback steakhouse,9,accept_reservations,0,0
+are reservations allowed at burger king,9,accept_reservations,0,0
+do they take reservations at mendy's,9,accept_reservations,0,0
+what locations of applebee's take reservations,9,accept_reservations,0,0
+do you know if ruth chris does reservations,9,accept_reservations,0,0
+where can i find jimmy john's reservations,9,accept_reservations,0,0
+does redrobin take reservations,9,accept_reservations,0,0
+can i make a reservation at michael's,9,accept_reservations,0,0
+does applebees in trenton do reservations,9,accept_reservations,0,0
+does cielo take reservations,9,accept_reservations,0,0
+i need to find out do you know if zeus does reservations,9,accept_reservations,0,0
+find out if la tour d'argent in paris takes reservations,9,accept_reservations,0,0
+does hannahs in galloway take reservations,9,accept_reservations,0,0
+do you know if whether or not zeus does reservations,9,accept_reservations,0,0
+does black rock take reservations,9,accept_reservations,0,0
+what is the colour of your pets,34,do_you_have_pets,38,0
+do you have any domestic animals,34,do_you_have_pets,38,0
+what sorts of pets do you own,34,do_you_have_pets,38,0
+"what kind of person are you, a cat or dog",34,do_you_have_pets,38,0
+what pets do you currently own,34,do_you_have_pets,38,0
+how many different pets do you have,34,do_you_have_pets,38,0
+why types of animals do you currently have as pets,34,do_you_have_pets,38,0
+i want to hear about your pets,34,do_you_have_pets,38,0
+i am needing to know what kind of pets you have,34,do_you_have_pets,38,0
+you have what kind of pets,34,do_you_have_pets,38,0
+i want to know if you are a cat or dog person,34,do_you_have_pets,38,0
+do you have any type of pet,34,do_you_have_pets,38,0
+i want to know whether or not you are a pet owner,34,do_you_have_pets,38,0
+what sort of pets do you have,34,do_you_have_pets,38,0
+"specifically, what pets do you own",34,do_you_have_pets,38,0
+i want to know what kinds of pets you have,34,do_you_have_pets,38,0
+"if you had to choose, would you choose a cat or a dog",34,do_you_have_pets,38,0
+tell me if you like cats or dogs,34,do_you_have_pets,38,0
+would you say you're a person who likes cats or dogs more,34,do_you_have_pets,38,0
+to what animal species do your pets belong,34,do_you_have_pets,38,0
+how many dollars can i exchange for 10000 rubles,38,exchange_rate,39,0
+how many lira can i get for 250 dollars,38,exchange_rate,39,0
+how many canadian dollars can i exchange for 200 yen,38,exchange_rate,39,0
+i wanna know five dollars in yen and rubles,38,exchange_rate,39,0
+tell me the exchange rate of dollars to yen,38,exchange_rate,39,0
+how many dollars can i exchange for 10000 yen,38,exchange_rate,39,0
+how much is 500 dollars in pesos,38,exchange_rate,39,0
+how many dollars can i exchange for 200 yen,38,exchange_rate,39,0
+what is the amount of dollars i get if i trade in 6 yens,38,exchange_rate,39,0
+what is the the exchange rate for us dollars to euros,38,exchange_rate,39,0
+what is the quantity of dollars i receive for trading 6 yens,38,exchange_rate,39,0
+tell me the exchange rate between dollars and pesos,38,exchange_rate,39,0
+how many euros can i exchange for 200 yen,38,exchange_rate,39,0
+what's the currency conversion between rubles and dollars,38,exchange_rate,39,0
+how many dollars can i exchange for 75 euros,38,exchange_rate,39,0
+what is the exchange rate between british pounds and yen,38,exchange_rate,39,0
+what is the equal number of dollars i can exchange for 50 pesos,38,exchange_rate,39,0
+i would love to know the exchange rate between rubles and pounds,38,exchange_rate,39,0
+what is the exchange rate between usd and british pounds,38,exchange_rate,39,0
+500 dollars equals what in pesos,38,exchange_rate,39,0
+what's the expiration date on my credit card,44,expiration_date,40,0
+when my credit card is going to expire,44,expiration_date,40,0
+when should i expect my visa to expire,44,expiration_date,40,0
+please find the expiration month listed on my card,44,expiration_date,40,0
+can you find out for me when my credit card will be expiring,44,expiration_date,40,0
+tell me the expiry month of my card,44,expiration_date,40,0
+what date does my capital one card expire,44,expiration_date,40,0
+how long until my visa expires,44,expiration_date,40,0
+is my card set to expire soon,44,expiration_date,40,0
+my credit card is set to expire in what month,44,expiration_date,40,0
+what's the exact date that my chase card will no longer work,44,expiration_date,40,0
+on what month and year does my card expire,44,expiration_date,40,0
+how long do i've got until my discovery card expires,44,expiration_date,40,0
+is my credit card expiring soon,44,expiration_date,40,0
+which month is the one in which my card expires,44,expiration_date,40,0
+can you tell me the expiration date for my mastercard,44,expiration_date,40,0
+how much longer until my credit card expires,44,expiration_date,40,0
+how long is it until my credit card expires,44,expiration_date,40,0
+please tell me the month and year of expiration for my discover card,44,expiration_date,40,0
+when is the expiration date for my discover card,44,expiration_date,40,0
+do i need an international visa to go to hong kong,59,international_visa,61,0
+would i need a tourist visa for brazil,59,international_visa,61,0
+must i have an international visa when travelling to russia,59,international_visa,61,0
+would i need a travel visa to go to the congo,59,international_visa,61,0
+would i need to get a visa to go to ireland,59,international_visa,61,0
+i'm going to jamaica next week; am i needing a visa,59,international_visa,61,0
+do i need an international visa to go to england,59,international_visa,61,0
+is an international visa needed to travel to z,59,international_visa,61,0
+i am going to russia and am wondering if i need a visa,59,international_visa,61,0
+do i need a visa to go to greece,59,international_visa,61,0
+do i need a travel visa to visit canada,59,international_visa,61,0
+will i need a visa to visit ireland,59,international_visa,61,0
+do i have to get an international visa before they'll let me in melbourne,59,international_visa,61,0
+i'm going to mexico; do i need an international via,59,international_visa,61,0
+is it necessary to apply for a tourist visa for mexico,59,international_visa,61,0
+do i need a visa to scotland,59,international_visa,61,0
+should i get a travel visa for spain,59,international_visa,61,0
+do i need to get a visa for traveling to chile,59,international_visa,61,0
+is a visa needed to go to mexico,59,international_visa,61,0
+do i need an international visa to go to brazil,59,international_visa,61,0
+my car was looked at when,37,last_maintenance,63,0
+when did i last bring my car in to get looked over,37,last_maintenance,63,0
+i need to know when it was that i last took my car to have the oil changed,37,last_maintenance,63,0
+what was the last time i had my car at the dealer for repairs,37,last_maintenance,63,0
+i need to know when my oil was last changed,37,last_maintenance,63,0
+what date did i have my oil changed last,37,last_maintenance,63,0
+look up the date of my last oil change,37,last_maintenance,63,0
+how long has it been since my car was last in the shop,37,last_maintenance,63,0
+when was my car last repaired,37,last_maintenance,63,0
+check to see when my car was last in the shop,37,last_maintenance,63,0
+when were my tires changed,37,last_maintenance,63,0
+when did i last take my car in for maintenance,37,last_maintenance,63,0
+"i last took my car to the shop, when",37,last_maintenance,63,0
+do you remember when i last changed my oil,37,last_maintenance,63,0
+when was the last time i changed my oil,37,last_maintenance,63,0
+do you remember my last oil change,37,last_maintenance,63,0
+when did i last have a mechanic check out my car,37,last_maintenance,63,0
+how long ago was my car last in the shop,37,last_maintenance,63,0
+when did i get my last oil change,37,last_maintenance,63,0
+i need you to look up the date of my car's last visit to the shop,37,last_maintenance,63,0
+can you call mary,25,make_call,65,0
+call erryn,25,make_call,65,0
+please call christy,25,make_call,65,0
+call macy,25,make_call,65,0
+put me on a call to sally,25,make_call,65,0
+please call toby,25,make_call,65,0
+please dial christie's number,25,make_call,65,0
+i must call roderick,25,make_call,65,0
+give liz a call,25,make_call,65,0
+call tom,25,make_call,65,0
+i want you to call bella,25,make_call,65,0
+can you call dominos pizza,25,make_call,65,0
+i should call ruthie,25,make_call,65,0
+call my best friend,25,make_call,65,0
+it is important that i call katie,25,make_call,65,0
+can you make a phone call to dave,25,make_call,65,0
+x is who i need to call,25,make_call,65,0
+call mark,25,make_call,65,0
+call jim,25,make_call,65,0
+can you call someone,25,make_call,65,0
+play the next musical number,118,next_song,75,0
+i want to hear the very next song on this playlist,118,next_song,75,0
+skip to next song,118,next_song,75,0
+please put on the next number on this playlist,118,next_song,75,0
+forget this song and go to the next,118,next_song,75,0
+go to next song,118,next_song,75,0
+i need you to play the next song on this playlist,118,next_song,75,0
+next song play,118,next_song,75,0
+i want to hear the next song,118,next_song,75,0
+you must skip this song and play the next one,118,next_song,75,0
+the next song should be played,118,next_song,75,0
+please play the next song,118,next_song,75,0
+play next on the playlist,118,next_song,75,0
+skip over this song,118,next_song,75,0
+play the next hit,118,next_song,75,0
+skip and next,118,next_song,75,0
+remember to play the next number on this particular playlist,118,next_song,75,0
+play the next song queued up,118,next_song,75,0
+skip this and go to the next song,118,next_song,75,0
+please skip this song and play the next one,118,next_song,75,0
+i need my pin number,89,pin_change,85,0
+please change my retirement account pin number to 1234,89,pin_change,85,0
+i need to change my pin number for my checking account,89,pin_change,85,0
+i'm afraid i've forgotten the pin for my 401k account,89,pin_change,85,0
+i would like to change the pin on my savings account,89,pin_change,85,0
+tell me how i can get a new pin number,89,pin_change,85,0
+i am unable to remember what my pin is for my bank of america checking account,89,pin_change,85,0
+i'd like to change my pin number for my savings account,89,pin_change,85,0
+i cannot remember what my pin is for my bank of america checking account this moment,89,pin_change,85,0
+i got to change my pin number for my account,89,pin_change,85,0
+i want to change my pin number for my account,89,pin_change,85,0
+i have no idea what the pin is for my checking account,89,pin_change,85,0
+i would like to change my pin number for my chase account,89,pin_change,85,0
+"help me, i forgot my pin number",89,pin_change,85,0
+i would like to replace the pin number for my retirement account,89,pin_change,85,0
+i need to change my pin number for my account,89,pin_change,85,0
+i'd like to change my pin number for my checking account,89,pin_change,85,0
+change my pin number for my checking account,89,pin_change,85,0
+you need to change the pin on my bank of america account to be 1234,89,pin_change,85,0
+so it turns out i can't remember what my pin is for my bank of america checking account,89,pin_change,85,0
+will you add a reminder for me,53,reminder_update,95,0
+how about a reminder,53,reminder_update,95,0
+i need to be reminded to pray,53,reminder_update,95,0
+please make a reminder,53,reminder_update,95,0
+remind me to take the chicken out in a hour,53,reminder_update,95,0
+set a reminder for me to take my meds,53,reminder_update,95,0
+make a reminder to change the cat litter,53,reminder_update,95,0
+i want to get reminded to clean my room,53,reminder_update,95,0
+i need you to remind me to get something done,53,reminder_update,95,0
+i need to set a reminder to go to the post office,53,reminder_update,95,0
+set a reminder for me to do this in a bit,53,reminder_update,95,0
+make a reminder for me to do my resume,53,reminder_update,95,0
+please remind me to take out the trash,53,reminder_update,95,0
+create a reminder for me to send flowers to my mom for mother's day,53,reminder_update,95,0
+please give me a reminder,53,reminder_update,95,0
+i would like to be reminded,53,reminder_update,95,0
+can you set me a reminder,53,reminder_update,95,0
+please remind me later,53,reminder_update,95,0
+please remind me of something,53,reminder_update,95,0
+set a reminder for my doctors appointment,53,reminder_update,95,0
+can i book a meeting room from 2:00 pm to 3:00 pm,18,schedule_meeting,109,0
+can you schedule a meeting with steve at the office,18,schedule_meeting,109,0
+are any rooms free from 12 to 1,18,schedule_meeting,109,0
+"can you schedule a meeting with steve at the office, please",18,schedule_meeting,109,0
+can you schedule a meeting at 10 am tomorrow with john smith,18,schedule_meeting,109,0
+add a new meeting with tom for 6pm,18,schedule_meeting,109,0
+can you put in a meeting for the blue room on friday,18,schedule_meeting,109,0
+are there rooms available between 5 and 530,18,schedule_meeting,109,0
+help me get a meeting set up,18,schedule_meeting,109,0
+put a meeting on my schedule with pam for 3:00pm on february 11th,18,schedule_meeting,109,0
+get me a meeting with bill for 5:30pm tomorrow,18,schedule_meeting,109,0
+are there any meetings room available between 8:00 and 9:00 am,18,schedule_meeting,109,0
+please find out if rooms are free from 1 to 2,18,schedule_meeting,109,0
+can you schedule a meeting for me,18,schedule_meeting,109,0
+how do i create a meeting,18,schedule_meeting,109,0
+i want a meeting to be scheduled,18,schedule_meeting,109,0
+how can i create a meeting,18,schedule_meeting,109,0
+schedule a meeting for me,18,schedule_meeting,109,0
+i want you to schedule a meeting with carrie and lisa,18,schedule_meeting,109,0
+can you sign me up for a meeting in the blue room on friday,18,schedule_meeting,109,0
+send fifty dollars from me to carrie,133,transfer,130,0
+take $40 and transfer it to account a from b,133,transfer,130,0
+deposit ten bucks from my chase account to my ally account,133,transfer,130,0
+need to transfer from one account to my other one,133,transfer,130,0
+move my money please,133,transfer,130,0
+transfer two hundred dollars between my portfolio and my money market account,133,transfer,130,0
+i need to move money from one account to another,133,transfer,130,0
+put a hundred dollars in my ally account from bluebird,133,transfer,130,0
+transfer $10 from checking to savings,133,transfer,130,0
+whats the quickest way to money from one account to another,133,transfer,130,0
+please transfer 100 dollars between my amazon payments and savings accounts,133,transfer,130,0
+transfer $20000 from my savings account to checking account,133,transfer,130,0
+transfer fifty dollars between my chase and bank of america account,133,transfer,130,0
+go ahead and send ten dollars from bank of america to capital one,133,transfer,130,0
+put $40 from account a to b,133,transfer,130,0
+please transfer $100 from my checking to my savings account,133,transfer,130,0
+take $40 from account a and transfer it to account b,133,transfer,130,0
+i want you to send ten dollars from bank of america to capital one,133,transfer,130,0
+please transfer $250 from checking to savings,133,transfer,130,0
+send $20 from debit to steve's account,133,transfer,130,0
+inform my bank that i will be in rome from february 1 to march 1,146,travel_notification,133,0
+tell my bank i am traveling out of country,146,travel_notification,133,0
+please tell the bank i will be traveling internationally,146,travel_notification,133,0
+i need to let my bank know i am traveling to new york,146,travel_notification,133,0
+"from january to august, i will be in uruguay, please let me bank know",146,travel_notification,133,0
+i need to let my bank know that i'll be travelling internationally,146,travel_notification,133,0
+i'm traveling to morocco soon and want to inform my bank,146,travel_notification,133,0
+tell the bank i will be traveling internationally soon,146,travel_notification,133,0
+i let my bank know that i'm traveling to greece from march to april,146,travel_notification,133,0
+alert the bank that i am traveling to tokyo on the 7th until the 21st,146,travel_notification,133,0
+call the bank and tell them i will be in france on the 16th until the 26th,146,travel_notification,133,0
+im going to be in paraguay from january 7th until january 10th,146,travel_notification,133,0
+make sur eyou tell the bank that i will be traveling internationally soon,146,travel_notification,133,0
+i'll soon be travelling internationally; could you let my bank know,146,travel_notification,133,0
+i'm traveling between denver and la so tell my bank,146,travel_notification,133,0
+i'm traveling to ca soon and want to inform my bank,146,travel_notification,133,0
+i need to let my bank know i am traveling to la,146,travel_notification,133,0
+tell my bank that i'm going to france,146,travel_notification,133,0
+i'm traveling to fresnosoon and want to inform my bank,146,travel_notification,133,0
+alert my bank and let them know i'm travelling to japan,146,travel_notification,133,0
+where should i travel to next,149,travel_suggestion,134,0
+"if i go to evans, what should i do",149,travel_suggestion,134,0
+tell me some things to see in tampa,149,travel_suggestion,134,0
+what's fun to do in thailand,149,travel_suggestion,134,0
+where should i travel if i want to visit some history museums,149,travel_suggestion,134,0
+what are some activities to do in chicago,149,travel_suggestion,134,0
+do you know of any activities in nashville,149,travel_suggestion,134,0
+is there anything neat to do in boston,149,travel_suggestion,134,0
+what's something interesting to do kentucky,149,travel_suggestion,134,0
+can you tell me about the best tourist attractions in sweden,149,travel_suggestion,134,0
+what could i do for fun in kentucky,149,travel_suggestion,134,0
+please suggest some fun tourist activities in tokyo,149,travel_suggestion,134,0
+what sort of things do people do in new york,149,travel_suggestion,134,0
+what kind of entertainment is available in chicago,149,travel_suggestion,134,0
+what do you recommend to do in vegas,149,travel_suggestion,134,0
+"in austin, what are some tourist things to do",149,travel_suggestion,134,0
+is there anything fun to do in berlin,149,travel_suggestion,134,0
+name the five star attractions in gatlinburg,149,travel_suggestion,134,0
+what are some tourist sites to see in ann arbor,149,travel_suggestion,134,0
+what are some touristy things to do in boston,149,travel_suggestion,134,0
+how do you spend your spare time,15,what_are_your_hobbies,141,0
+what are ai's hobbies,15,what_are_your_hobbies,141,0
+tell your hobbies,15,what_are_your_hobbies,141,0
+do ai have hobbies and if so what are yours,15,what_are_your_hobbies,141,0
+what are some things you like to do,15,what_are_your_hobbies,141,0
+what are the things you like to do for fun,15,what_are_your_hobbies,141,0
+what do you do for hobbies,15,what_are_your_hobbies,141,0
+what do you do in your free time,15,what_are_your_hobbies,141,0
+i like to paint in my free time-do you have any hobbies like that,15,what_are_your_hobbies,141,0
+what do you enjoy doing while not working,15,what_are_your_hobbies,141,0
+do you enjoy any hobbies,15,what_are_your_hobbies,141,0
+what do you like to do in your spare time,15,what_are_your_hobbies,141,0
+can you tell me your hobbies,15,what_are_your_hobbies,141,0
+are there activities that you enjoy doing in your free time,15,what_are_your_hobbies,141,0
+let's talk about your hobbies,15,what_are_your_hobbies,141,0
+what things do you enjoy doing,15,what_are_your_hobbies,141,0
+can you tell me about your hobbies,15,what_are_your_hobbies,141,0
+"what do you do when you're not working, for fun",15,what_are_your_hobbies,141,0
+tell me all about your hobbies,15,what_are_your_hobbies,141,0
+what sorts of activities do you enjoy,15,what_are_your_hobbies,141,0

@@ -1,0 +1,751 @@
+text,label,label_text,global_label,task_id
+are reservations allowed at burger king,9,accept_reservations,0,0
+how many culver's take reservations,9,accept_reservations,0,0
+do they take reservations at bar tartine,9,accept_reservations,0,0
+is there evening reservations available in the eve,9,accept_reservations,0,0
+does ruby tuesday accept reservations,9,accept_reservations,0,0
+why does my credit union account have a hold on it,2,account_blocked,1,8
+what is the reason i am locked out of my bank account,2,account_blocked,1,8
+what's with the block on my bank account,2,account_blocked,1,8
+can you find out what triggered a hold on my bank account,2,account_blocked,1,8
+why is my account locked,2,account_blocked,1,8
+create an alarm for 6am,83,alarm,2,4
+please set up an alarm to go off tomorrow at daybreak,83,alarm,2,4
+set an alarm for 5 pm,83,alarm,2,4
+please turn on the alarm,83,alarm,2,4
+make a new alarm for 6 in the morning,83,alarm,2,4
+"i put in a credit card application, so what is the status with it currently",103,application_status,3,1
+look into the status of the credit card application i submitted recently for my new card,103,application_status,3,1
+do you know if my amex card app went through,103,application_status,3,1
+i filed a credit card application so what is going on with it,103,application_status,3,1
+what is the status of the application for a credit card i put in,103,application_status,3,1
+is the apr on my credit card good,132,apr,4,3
+how good is the apr on my credit card,132,apr,4,3
+it would be great if you could tell me my credit card's apr,132,apr,4,3
+what will the apr on my transferred balance be after the first year on my bank of america credit card,132,apr,4,3
+how good is card apr,132,apr,4,3
+tell me now if you are a bot,117,are_you_a_bot,5,7
+how do i know if you are a real person,117,are_you_a_bot,5,7
+are an an ai,117,are_you_a_bot,5,7
+are you real or not,117,are_you_a_bot,5,7
+are you actually a bot,117,are_you_a_bot,5,7
+how much money do i have in all of my accounts,35,balance,6,9
+do i have enough money in my chase account for a new refrigerator,35,balance,6,9
+what is in my bank accounts,35,balance,6,9
+please tell me my bank balance,35,balance,6,9
+what is the balance of my bank of american account,35,balance,6,9
+do i owe any bills,27,bill_balance,7,9
+please find the current balance on my con edison bill,27,bill_balance,7,9
+how much do i owe in bills,27,bill_balance,7,9
+how much is my cable bill,27,bill_balance,7,9
+what's my mortgage payment going to be this month,27,bill_balance,7,9
+how do i check when my mortgage is next up for payment,56,bill_due,8,9
+on what day do i have to pay my nordstrom bill,56,bill_due,8,9
+when's the next phone bill,56,bill_due,8,9
+what date is my at&t bill due,56,bill_due,8,9
+what do i do to check when my next credit card payment is,56,bill_due,8,9
+find me a roundtrip flight from dallas to los angeles from march 2 to march 10,63,book_flight,9,4
+could you make a flight reservation with air emirates from orlando to london,63,book_flight,9,4
+purchase a flight from boise to sacramento on sunday and returning on wednesday,63,book_flight,9,4
+i'd like a flight from laguardia to orlando on southwest for under $400,63,book_flight,9,4
+book a flight from chicago to dc on monday and returning on wednesday,63,book_flight,9,4
+i'm inquiring about the availability of a room that fits 10 people from monday to tuesday in manhattan,116,book_hotel,10,6
+find me a hotel in kansas city with good reviews,116,book_hotel,10,6
+i want to book a hotel room for 10 people from monday to tuesday in manhattan,116,book_hotel,10,6
+i need a room in london for 2 people from march 1st to 3rd,116,book_hotel,10,6
+book me a hotel in pittsburgh near grant street for 3/15 through 3/18,116,book_hotel,10,6
+what is 2 + 2,138,calculator,11,7
+what's ten times eight,138,calculator,11,7
+what is 38% of 389209,138,calculator,11,7
+what is the square root of 66,138,calculator,11,7
+what is 2+2,138,calculator,11,7
+what do i have scheduled on march 2nd on my calendar,60,calendar,12,7
+do i have anything on my calendar for may 3,60,calendar,12,7
+"the 21st, what is on my calendar",60,calendar,12,7
+what's on the calendar for march 4th,60,calendar,12,7
+do i have anything on my calendar for march 2nd,60,calendar,12,7
+clear my calendar for the date of june 23,105,calendar_update,13,7
+remove from calendar jesse's bbq on june 9th,105,calendar_update,13,7
+remember to put down that i have an appointment for tomorrow on my calendar,105,calendar_update,13,7
+add my doctor appointment on march 25th at 3:00 to my calendar,105,calendar_update,13,7
+remove anniversary dinner from my calendar on april 5,105,calendar_update,13,7
+one cup of almonds has how many calories,135,calories,14,4
+what's the caloric content if you eat roast beef,135,calories,14,4
+i need to know the number of calories on average in a handful of pistachios,135,calories,14,4
+do cheetos have a lot of calories,135,calories,14,4
+how many calories does a scoop of chocolate ice cream have,135,calories,14,4
+mute,147,cancel,15,6
+forget it,147,cancel,15,6
+pause,147,cancel,15,6
+stop and go back,147,cancel,15,6
+can you please cancel,147,cancel,15,6
+can i cancel my reservations please,67,cancel_reservation,16,2
+"cancel my reservation for dinner, please",67,cancel_reservation,16,2
+please cancel the table i had reserved for tonight,67,cancel_reservation,16,2
+scrap that dinner reservation,67,cancel_reservation,16,2
+the reservation i have isn't needed any more,67,cancel_reservation,16,2
+i want to reserve a convertible from july 2nd through july 18th for los angeles,40,car_rental,17,3
+i'd like to rent a vehicle from nov 1st to nov 15th in san antonio and i need a 15 passenger van,40,car_rental,17,3
+please look up if i can rent a car in houston from march 25 to march 29,40,car_rental,17,3
+find out if i can rent a car in los angeles from march 2-9,40,car_rental,17,3
+i'll need a rental car from 3/3 - 3/14 in vegas,40,car_rental,17,3
+i wonder why my card got declined yesterday,49,card_declined,18,1
+let me know why my card got declined,49,card_declined,18,1
+please tell me why did my card not get accepted,49,card_declined,18,1
+how do i fix my card being declined,49,card_declined,18,1
+explain why was my card declined at boston market,49,card_declined,18,1
+am i limited in carry ons for jet blue,62,carry_on,19,7
+what are my carry on options when flying american airlines to trenton,62,carry_on,19,7
+does united airlines allow more than one carry on,62,carry_on,19,7
+how strict is spirit when it comes to carry ons,62,carry_on,19,7
+does jet blue have any carry-on restrictions,62,carry_on,19,7
+i would prefer to hear you speak like a british male,51,change_accent,20,8
+please use a male voice when speaking,51,change_accent,20,8
+switch to female voice,51,change_accent,20,8
+go ahead and change your accent to the male british one,51,change_accent,20,8
+please use male voice,51,change_accent,20,8
+please change the ai name,55,change_ai_name,21,4
+will you answer if i call you lexi,55,change_ai_name,21,4
+"if i may, i'd like to call you slave",55,change_ai_name,21,4
+may i start referring to you as jeff,55,change_ai_name,21,4
+alter the name given to the ai,55,change_ai_name,21,4
+i want you to speak in french,29,change_language,22,9
+can i give you instructions in japanese,29,change_language,22,9
+i want us to speak to each other in spanish from now on,29,change_language,22,9
+i want to put you in a different language,29,change_language,22,9
+change your language setting to chinese,29,change_language,22,9
+can you speak with me using faster speech,119,change_speed,23,9
+make your speech slower than now,119,change_speed,23,9
+i want you to talk more slowly,119,change_speed,23,9
+can i get you to talk at a slightly faster rate,119,change_speed,23,9
+can you slow down how fast you talk,119,change_speed,23,9
+my name is brad,144,change_user_name,24,6
+can i change my nickname,144,change_user_name,24,6
+i go by brad,144,change_user_name,24,6
+my names carrie,144,change_user_name,24,6
+i am josh,144,change_user_name,24,6
+raise the volume to 4 please,150,change_volume,25,3
+please set the volume to 4,150,change_volume,25,3
+set the volume to 4 now,150,change_volume,25,3
+volume should be set at 4,150,change_volume,25,3
+would you please increase your speaker volume,150,change_volume,25,3
+i would like to try and confirm that i have a reservation at macaroni grill for silva,85,confirm_reservation,26,9
+i wish to confirm that i have a reservation at red robin for josh,85,confirm_reservation,26,9
+please confirm my reservation for thursday at 10am,85,confirm_reservation,26,9
+can you verify my reservation under steve for friendly's,85,confirm_reservation,26,9
+can you confirm my reservation for lance at morton's,85,confirm_reservation,26,9
+how long is it acceptable to carmelize onions,86,cook_time,27,7
+tell me how long i will need to spend preparing a meat loaf dish,86,cook_time,27,7
+how long should i cook the asparagus for,86,cook_time,27,7
+how long should i cook the pasta for,86,cook_time,27,7
+how much time does it take to boil an egg,86,cook_time,27,7
+report my credit limit,41,credit_limit,28,9
+can you tell me my credit limit,41,credit_limit,28,9
+credit limit,41,credit_limit,28,9
+do you know my credit limit for the visa card,41,credit_limit,28,9
+i want to know my spending limit,41,credit_limit,28,9
+can i increase the credit limit for my american express card,109,credit_limit_change,29,5
+is it possible to increase the credit limit for my discover card,109,credit_limit_change,29,5
+how do increase the credit limit on my visa card,109,credit_limit_change,29,5
+credit limit change,109,credit_limit_change,29,5
+will i be able to increase my credit limit to $1000,109,credit_limit_change,29,5
+what is my credit score,69,credit_score,30,1
+will you tell me my credit score,69,credit_score,30,1
+can you figure out how to find my credit score,69,credit_score,30,1
+what in the world is my credit rating,69,credit_score,30,1
+tell me my credit score please,69,credit_score,30,1
+show me where i am,136,current_location,31,4
+what country and city am i in,136,current_location,31,4
+please give me my gps coordinates,136,current_location,31,4
+please show me where i am on a map,136,current_location,31,4
+give me my location on the map,136,current_location,31,4
+"my card got melted in the dryer and i need to report it, please",87,damaged_card,32,1
+how do i report my card if it got cut in half,87,damaged_card,32,1
+"my card split in half, how do i report it",87,damaged_card,32,1
+"i can not use my card, it is damaged",87,damaged_card,32,1
+report that the card has been wrecked,87,damaged_card,32,1
+what is the date tomorrow,95,date,33,7
+can you remind me of the date,95,date,33,7
+what's today's date,95,date,33,7
+tell me what the date is today,95,date,33,7
+can you tell me what today's date is,95,date,33,7
+what does discretionary mean,139,definition,34,4
+tell me what the word die means,139,definition,34,4
+read me the definition of ajar,139,definition,34,4
+tell me the definition of the word redemption,139,definition,34,4
+what is good riddance mean,139,definition,34,4
+how can i set up direct deposit,108,direct_deposit,35,9
+can you help me set up a direct depost,108,direct_deposit,35,9
+i'd like to set up a direct deposit for my paycheck,108,direct_deposit,35,9
+how does one go about setting up direct deposit,108,direct_deposit,35,9
+"if i would like to set up direct deposit, how do i do it",108,direct_deposit,35,9
+"i'm at home, so where is the closest starbucks",72,directions,36,3
+what's the distance between home and the closest starbucks,72,directions,36,3
+please tell me the subway station nearest to madison square garden in new york,72,directions,36,3
+is it possible to take the bus to the brooklyn bridge,72,directions,36,3
+i want to know how to get to statue of liberty by bus,72,directions,36,3
+how long will it take me to drive to the park in west county,78,distance,37,6
+how long does it take to get to red robin on phoenix,78,distance,37,6
+how long's it take to get to the panera downtown,78,distance,37,6
+it takes how long to get to the beach in santa barbara,78,distance,37,6
+what amount of time will pass in order for a person at our location to take bus to detroit,78,distance,37,6
+why types of animals do you currently have as pets,34,do_you_have_pets,38,0
+let me know if you are a cat or dog person,34,do_you_have_pets,38,0
+tell me what kinds of pets you have,34,do_you_have_pets,38,0
+i need to know whether you are a cat or dog person,34,do_you_have_pets,38,0
+what are your pets,34,do_you_have_pets,38,0
+how much is 500 dollars in pesos,38,exchange_rate,39,0
+how much dollars do i receive if i trade in 6 yens,38,exchange_rate,39,0
+exchange rate between mexico and us,38,exchange_rate,39,0
+how many pesos in one dollar us,38,exchange_rate,39,0
+what is the exchange rate for canadian dollars to us dollars,38,exchange_rate,39,0
+what date does my capital one card expire,44,expiration_date,40,0
+what's the month that my card expires,44,expiration_date,40,0
+please find out the expiration date for my credit card,44,expiration_date,40,0
+my card expires in what month,44,expiration_date,40,0
+when is my card going to expire,44,expiration_date,40,0
+find out where my phone is,81,find_phone,41,4
+can you call my cellphone,81,find_phone,41,4
+where can i find my phone,81,find_phone,41,4
+"ai, i lost my phone, help me find it please",81,find_phone,41,4
+i don't know where i left my phone,81,find_phone,41,4
+when's my flight boarding,80,flight_status,42,2
+whats my delta flight's status,80,flight_status,42,2
+at what time will my flight land,80,flight_status,42,2
+will my delta flight leave on time,80,flight_status,42,2
+can you tell me what time this flight is going to land,80,flight_status,42,2
+can you do a coin flip,33,flip_coin,43,8
+please tell me if a coin flip lands on heads or tails,33,flip_coin,43,8
+lets do a coin toss,33,flip_coin,43,8
+i need to do a fair coin flip,33,flip_coin,43,8
+spin a coin,33,flip_coin,43,8
+is it okay to eat chicken that i put in the fridge on monday,54,food_last,44,7
+how long do i have before frozen chicken will go bad,54,food_last,44,7
+when does milk expire,54,food_last,44,7
+how long does it take frozen steaks to go bad,54,food_last,44,7
+tell me when the milk will expire,54,food_last,44,7
+please turn my account to frozen,20,freeze_account,45,7
+please pause my banking actions,20,freeze_account,45,7
+pause my account,20,freeze_account,45,7
+put a hold on my bank account,20,freeze_account,45,7
+is it too much trouble to put a stop on my bank account,20,freeze_account,45,7
+i want to know a fun fact about pluto,129,fun_fact,46,6
+what's a fun fact about mythology,129,fun_fact,46,6
+any unique trivia about beats headphones,129,fun_fact,46,6
+tell me a random fact,129,fun_fact,46,6
+i want to know all about trivia for the office,129,fun_fact,46,6
+please tell me the amount of gas i have,110,gas,47,5
+how much fuel do i have,110,gas,47,5
+what's left in my gas tank,110,gas,47,5
+what's my current fuel level,110,gas,47,5
+how much gas is in the tank,110,gas,47,5
+does my car need specific fuel,8,gas_type,48,7
+which gas grade does this car take,8,gas_type,48,7
+does this car take regular gas,8,gas_type,48,7
+tell me the gasoline type for this car,8,gas_type,48,7
+tell me what cas is needed for this car,8,gas_type,48,7
+"syonara, ai device!",114,goodbye,49,3
+"goodbye, helpful ai device!",114,goodbye,49,3
+bye!,114,goodbye,49,3
+it was really nice to be able to chat with you,114,goodbye,49,3
+it was good chatting,114,goodbye,49,3
+good day,82,greeting,50,8
+hiya!,82,greeting,50,8
+how do you feel,82,greeting,50,8
+how is my ai doing,82,greeting,50,8
+are you feeling okay,82,greeting,50,8
+do you know how long of a wait it will be,102,how_busy,51,3
+how long is the restaurant line before we go,102,how_busy,51,3
+how busy will chili's be if i go at 6 pm,102,how_busy,51,3
+how long is the wait at macaroni grill,102,how_busy,51,3
+"at four, how much business does georgio have",102,how_busy,51,3
+i am needing to know when you were born,99,how_old_are_you,52,4
+i am wanting to know how old you are,99,how_old_are_you,52,4
+what's your age siri,99,how_old_are_you,52,4
+would you tell me your age,99,how_old_are_you,52,4
+how long have you been alive for,99,how_old_are_you,52,4
+how can i improve my credit score,28,improve_credit_score,53,1
+what factors can ruin a credit score,28,improve_credit_score,53,1
+what can i do to raise my credit score,28,improve_credit_score,53,1
+how to keep my credit from dropping,28,improve_credit_score,53,1
+my credit is going down what should i do,28,improve_credit_score,53,1
+advise me of my income,93,income,54,8
+tell me how much i make,93,income,54,8
+how much money do i bring in,93,income,54,8
+what are they paying me at work right now,93,income,54,8
+what amount do i make,93,income,54,8
+can i substitute milk for water,134,ingredient_substitution,55,9
+i gotta sub sugar for salt,134,ingredient_substitution,55,9
+can i substitute rice for potatoes,134,ingredient_substitution,55,9
+substitute for milk in pancakes,134,ingredient_substitution,55,9
+can i switch in almond butter for peanut butter,134,ingredient_substitution,55,9
+what kind of stuff is in potato salad,112,ingredients_list,56,8
+what ingredients are required for chicken noodle soup,112,ingredients_list,56,8
+what ingredients are in chips,112,ingredients_list,56,8
+i’m making spaghetti what ingredients do i need,112,ingredients_list,56,8
+what ingredients are in dough,112,ingredients_list,56,8
+tell me my health plan,74,insurance,57,9
+what's the healthcare plan i'm on,74,insurance,57,9
+do i have many health benefits,74,insurance,57,9
+will you summarize my health benefits,74,insurance,57,9
+where is the list of my insurance benefits,74,insurance,57,9
+"how do i get new insurance, please",64,insurance_change,58,6
+how do i update my insurance,64,insurance_change,58,6
+what do i do to get new insurance,64,insurance_change,58,6
+"how can i obtain new insurance, please",64,insurance_change,58,6
+walk me through on how to change my insurance,64,insurance_change,58,6
+"what's my current interest rate, if you could look",7,interest_rate,59,9
+"if i'm using citibank, what is the interest rate",7,interest_rate,59,9
+check the interest rate on my savings account,7,interest_rate,59,9
+how do i know what interest rate chase has,7,interest_rate,59,9
+will you tell me the interest rate,7,interest_rate,59,9
+what are my chase cards fees for international transactions,137,international_fees,60,2
+are transaction fees charged for my aaa card in canada,137,international_fees,60,2
+what kind of international transaction fees are related to my amex,137,international_fees,60,2
+tell me if there is any transaction fee using royal card in europe,137,international_fees,60,2
+will i be charged if i use my card in detroit,137,international_fees,60,2
+do i need an international visa to go to england,59,international_visa,61,0
+i am going to germany soon do i need a visa,59,international_visa,61,0
+do i need a visa to leave the country,59,international_visa,61,0
+do i need a travel visa to visit japan,59,international_visa,61,0
+i'm vacationing in israel will i need a visa,59,international_visa,61,0
+"my car needs jump started, find me directions",17,jump_start,62,9
+can you tell me how to jump start the car,17,jump_start,62,9
+"i don't know how to jump start my car, help!",17,jump_start,62,9
+how do you jump a car with a dead battery,17,jump_start,62,9
+help me jump start my car,17,jump_start,62,9
+look up the date of my last oil change,37,last_maintenance,63,0
+when was my car last worked on,37,last_maintenance,63,0
+how long ago did my car get looked at,37,last_maintenance,63,0
+"i can't remember when my car last went to the shop, can you find out for me",37,last_maintenance,63,0
+when was the last time my car was in the shop,37,last_maintenance,63,0
+locate lost luggage from flight america airlines in o'hare,113,lost_luggage,64,3
+on flight america airlines in o'hare lost luggage,113,lost_luggage,64,3
+i arrived on delta flight ab123 from juno but my luggage doesn't appear to have come with me,113,lost_luggage,64,3
+i was on delta flight ab123 out of new york and haven't been able to locate my luggage,113,lost_luggage,64,3
+how to find lost luggage,113,lost_luggage,64,3
+please dial christie's number,25,make_call,65,0
+phone call secretary,25,make_call,65,0
+call robby,25,make_call,65,0
+get a hold of sue,25,make_call,65,0
+use my phone to dial work,25,make_call,65,0
+not quite sure how to respond,121,maybe,66,2
+i don't know for sure,121,maybe,66,2
+i'm not sure what the answer is,121,maybe,66,2
+im not sure,121,maybe,66,2
+that's a possibility,121,maybe,66,2
+what's a good french meal,46,meal_suggestion,67,2
+i need a mexican meal suggesstion,46,meal_suggestion,67,2
+what do you think would be a good dinner,46,meal_suggestion,67,2
+which mexican meal would be good,46,meal_suggestion,67,2
+what do you think i should make for dinner,46,meal_suggestion,67,2
+what's the answer to existence,22,meaning_of_life,68,6
+research the meaning of life,22,meaning_of_life,68,6
+does life have a meaning,22,meaning_of_life,68,6
+what's the purpose of existence,22,meaning_of_life,68,6
+what's my meaning in life,22,meaning_of_life,68,6
+how many centimeters are in an inch,31,measurement_conversion,69,3
+whats 5 feet in inches,31,measurement_conversion,69,3
+convert inches to centimeters,31,measurement_conversion,69,3
+what is the conversion for pints to quarts,31,measurement_conversion,69,3
+how do you convert miles to kilometers,31,measurement_conversion,69,3
+do you know if i have any meetings set up with travis today,19,meeting_schedule,70,9
+meetings today,19,meeting_schedule,70,9
+do i have meetings from 1 to 4 today,19,meeting_schedule,70,9
+please list my meetings for today,19,meeting_schedule,70,9
+what scheduled meetings do i have today,19,meeting_schedule,70,9
+what is the lowest amount i can pay for my electric bill,143,min_payment,71,8
+what is the minimum i need to pay for my cell phone bill,143,min_payment,71,8
+what is the minimum i can pay for my phone bill,143,min_payment,71,8
+i want you to tell me the minimum i can pay on my rent bill,143,min_payment,71,8
+what is the lowest i can pay on my phone bill,143,min_payment,71,8
+how many miles does my car get per gallon,142,mpg,72,1
+how many mpg does this rig get when i'm in the city,142,mpg,72,1
+how many miles per gallon do i get in my car,142,mpg,72,1
+how much mpg does this car get in the city,142,mpg,72,1
+how many miles per gallon does it get in the city,142,mpg,72,1
+i need to apply for a visa card,91,new_card,73,6
+can you help me sign up for a new credit card,91,new_card,73,6
+how do i sign up for a new credit card,91,new_card,73,6
+tell me how to apply for a visa card,91,new_card,73,6
+what is the process i need to follow to get a new credit card,91,new_card,73,6
+give me the info of when our next day off is,140,next_holiday,74,4
+check when the next day is i can go fishing will be,140,next_holiday,74,4
+how many days until the next holiday arrives,140,next_holiday,74,4
+when will we next get to stay home from work,140,next_holiday,74,4
+are there any holidays this month,140,next_holiday,74,4
+i need you to play the next song on this playlist,118,next_song,75,0
+what's next on the list,118,next_song,75,0
+let's play the next song now,118,next_song,75,0
+play the next song,118,next_song,75,0
+give me the next song,118,next_song,75,0
+"no, that's incorrect",30,no,76,3
+that's not true,30,no,76,3
+negative for sure,30,no,76,3
+no that's wrong,30,no,76,3
+that's a negative,30,no,76,3
+what's the nutrition content of chicken nuggets,1,nutrition_info,77,7
+is spaghetti healthy,1,nutrition_info,77,7
+can you tell me about the nutrients in jello,1,nutrition_info,77,7
+how many nutrients are there in a bowl of cereal,1,nutrition_info,77,7
+can you tell me the nutritional content of chicken nuggets,1,nutrition_info,77,7
+i want to learn to change oil,3,oil_change_how,78,4
+how do i change my oil and choose the right oil,3,oil_change_how,78,4
+how will i change my car's oil,3,oil_change_how,78,4
+give me instructions on how to change my oil,3,oil_change_how,78,4
+what way can i change oil at home,3,oil_change_how,78,4
+when do i need you change my oil,123,oil_change_when,79,6
+at what time should i get my oil changed next,123,oil_change_when,79,6
+when am i due for an oil change,123,oil_change_when,79,6
+when should my oil be changed,123,oil_change_when,79,6
+when do cars need their oil changed,123,oil_change_when,79,6
+get my entire shopping list ordered,16,order,80,6
+i need you to buy a laptop,16,order,80,6
+will you order me some more lysol spray,16,order,80,6
+take my shopping list and order all,16,order,80,6
+can you order me new ray bans,16,order,80,6
+is it possible to get more checkbooks for my navy fed account,127,order_checks,81,2
+i must order some more checks for my checking account,127,order_checks,81,2
+can some more checkbooks get mailed to me,127,order_checks,81,2
+i want to order some more checks for my savings account,127,order_checks,81,2
+"ai, call my usbank to order more checks",127,order_checks,81,2
+where was my package last at,84,order_status,82,4
+can you update me on my last amazon orders,84,order_status,82,4
+show me where my order is,84,order_status,82,4
+i submitted my order is there any updates on it yet,84,order_status,82,4
+is my order being delivered soon,84,order_status,82,4
+i need help paying my tuition bill,111,pay_bill,83,1
+pay my phoe bill with my debit card,111,pay_bill,83,1
+i'd like to pay my bill,111,pay_bill,83,1
+go ahead and pay my american express bill now,111,pay_bill,83,1
+can you assist me in paying my electric bill,111,pay_bill,83,1
+i wanna know when i was paid last,79,payday,84,5
+tell me on what day did i get paid last,79,payday,84,5
+when will i get paid next,79,payday,84,5
+tell me when i received my most recent paycheck,79,payday,84,5
+when was i paid the last time,79,payday,84,5
+i am unable to remember what my pin is for my bank of america checking account,89,pin_change,85,0
+please go and change the pin on my bank of america account to be 1234,89,pin_change,85,0
+on account ending in 3838 change my pin to 1234,89,pin_change,85,0
+i must change my pin number for my account,89,pin_change,85,0
+change the pin on my bofa account to 3892,89,pin_change,85,0
+play heart shaped box,106,play_music,86,2
+look up my maroon 5 playlists; play it,106,play_music,86,2
+turn my drake playlist on,106,play_music,86,2
+can you play music the beatles,106,play_music,86,2
+i want to hear my shower playlist,106,play_music,86,2
+should i purchase a new plug converter when in france,120,plug_type,87,5
+when in europe would i be able to use a regular plug,120,plug_type,87,5
+should i bring a converter to barcelona,120,plug_type,87,5
+how do i know what the outlets are like,120,plug_type,87,5
+do i need a plug converter when i visit france,120,plug_type,87,5
+what is my vacation schedule look like,126,pto_balance,88,3
+can you explain to me what type of vacation days i have still,126,pto_balance,88,3
+could you tell me how many vacation days i have left,126,pto_balance,88,3
+i have how many vacation days saved up,126,pto_balance,88,3
+what pto time to i have remaining,126,pto_balance,88,3
+how can i schedule a vacation request,97,pto_request,89,8
+create a pto request for march 21st to march 26th,97,pto_request,89,8
+could you submit a pto request for me for dates june 11 to 14,97,pto_request,89,8
+"is it possible for me to take a pto for two days, starting february 7",97,pto_request,89,8
+"can you submit a pto request for me from dates nov 2 to 10, please",97,pto_request,89,8
+is my day off approved,101,pto_request_status,90,6
+whats going on with my day off request,101,pto_request_status,90,6
+"my vacation, has it been approved yet",101,pto_request_status,90,6
+did i get my day off,101,pto_request_status,90,6
+i want to know what the latest is on my vacation request i submitted,101,pto_request_status,90,6
+please find out how many days off i have used by this point,148,pto_used,91,2
+how much of my pto have i depleted,148,pto_used,91,2
+what's the total of days i've taken for me time so far,148,pto_used,91,2
+check to see how many days off i have used in total so far,148,pto_used,91,2
+how much paid time off do i have left,148,pto_used,91,2
+you know procedure to cook apple pie,104,recipe,92,1
+i need a recipe for chicken pot pie,104,recipe,92,1
+find a recipe for german chocolate cake,104,recipe,92,1
+how do i make pumpkin pie,104,recipe,92,1
+making ribs perfectly is done how,104,recipe,92,1
+i would love to redeem some smart speakers with my credit card points,6,redeem_rewards,93,6
+how do i cash the reward for first bankcard,6,redeem_rewards,93,6
+how can i cash in the rewards i earned with my visa card,6,redeem_rewards,93,6
+how can i cash in on the rewards i earned through my american express card,6,redeem_rewards,93,6
+what do i do to get cach back for points on my discover card,6,redeem_rewards,93,6
+tell me if flipping the mattress is on my list of reminders please,76,reminder,94,5
+go through my reminder list with me please,76,reminder,94,5
+"i wanted to remember some things, what were they",76,reminder,94,5
+do i have a reminder for our neighbor's anniversary,76,reminder,94,5
+tell me what i had wanted to remember earlier,76,reminder,94,5
+make a reminder to change the cat litter,53,reminder_update,95,0
+can you set a reminder for the meeting,53,reminder_update,95,0
+"open up a reminder, pay taxes on monday",53,reminder_update,95,0
+set a reminder to go dress shopping,53,reminder_update,95,0
+please reminder for car meet,53,reminder_update,95,0
+i didn't hear you please repeat,13,repeat,96,3
+please repeat,13,repeat,96,3
+i need that said again,13,repeat,96,3
+repeat the question,13,repeat,96,3
+"i did not hear you, please repeat",13,repeat,96,3
+what is the turn around for a new card,90,replacement_card_duration,97,8
+when does the replacement card arrive,90,replacement_card_duration,97,8
+how long does it take you to mail me a new card,90,replacement_card_duration,97,8
+how many days do i have to wait for my card,90,replacement_card_duration,97,8
+how many days does it take to receive a new card,90,replacement_card_duration,97,8
+i'm afraid this charge on my account is fraud,70,report_fraud,98,3
+i think there's fraud on my account,70,report_fraud,98,3
+can you help me deal with this fraudulent transaction from verizon on my account,70,report_fraud,98,3
+i must report fraudulent activity on my debit,70,report_fraud,98,3
+my card has purchases i don't recognize,70,report_fraud,98,3
+i need to report a lost card,12,report_lost_card,99,5
+can you report my lost discover card,12,report_lost_card,99,5
+i can't find my mastercard and i want to report it as lost,12,report_lost_card,99,5
+report discover card as lost,12,report_lost_card,99,5
+i want to report my discover card as lost,12,report_lost_card,99,5
+return to your original settings,88,reset_settings,100,5
+would you please reboot yourself to factory settings,88,reset_settings,100,5
+make all settings the initial defaults if you would,88,reset_settings,100,5
+please reset your factory settings,88,reset_settings,100,5
+i want to put you back to original settings,88,reset_settings,100,5
+can i make a reservation for 8 pm at red robin for 3,23,restaurant_reservation,101,2
+can you get me a table for 5 at mcdonalds at 5pm,23,restaurant_reservation,101,2
+book a reservation for 6 at shakey's under the name jason,23,restaurant_reservation,101,2
+is it possible to book a room at the taco bell for reavers at 3,23,restaurant_reservation,101,2
+can you reserve a table for 2 at red lobster at 8pm,23,restaurant_reservation,101,2
+are the pancakes at ihop any good,0,restaurant_reviews,102,4
+are the reviews good or bad for burger king,0,restaurant_reviews,102,4
+does buffalo wild wings have good reviews,0,restaurant_reviews,102,4
+how many stars does la vignette have,0,restaurant_reviews,102,4
+how good are the ratings for pizza hut,0,restaurant_reviews,102,4
+are there any decent places to get seafood in seattle,145,restaurant_suggestion,103,8
+name a good restaurant near me,145,restaurant_suggestion,103,8
+any new restaurants near the mall,145,restaurant_suggestion,103,8
+do you know of any good restaurants,145,restaurant_suggestion,103,8
+what's a good restaurant nearby,145,restaurant_suggestion,103,8
+how many points do i have on my mastercard,50,rewards_balance,104,2
+what points were earned on my mastercard,50,rewards_balance,104,2
+is there a better way to check my visa rewards card balance,50,rewards_balance,104,2
+what's the balance of my reward points on my discover card,50,rewards_balance,104,2
+calculate my points for visa,50,rewards_balance,104,2
+roll a die with 6 sides please,92,roll_dice,105,5
+what do you get when you roll a dice with five sides,92,roll_dice,105,5
+i'd like you to roll a 6 sided dice,92,roll_dice,105,5
+i want you to roll dice,92,roll_dice,105,5
+roll a pair of eight sided dice,92,roll_dice,105,5
+can you help me figure out how to rollover my 401k,100,rollover_401k,106,5
+i would like to know how to rollover my 401k,100,rollover_401k,106,5
+i want my 401k rolled over to a new workplace,100,rollover_401k,106,5
+please walk me through the steps necessary to rollover my 401k,100,rollover_401k,106,5
+"i have a new job, help me with my 401k rollover",100,rollover_401k,106,5
+could you tell me what my routing number from first republic is,45,routing,107,8
+can you tell me the routing number of wells fargo,45,routing,107,8
+where do i find the routing number for bank of america,45,routing,107,8
+i must learn my routing number,45,routing,107,8
+where do i find the routing number for chase,45,routing,107,8
+"my engine light came on, so i need to get help",131,schedule_maintenance,108,9
+set an appointment for an oil change,131,schedule_maintenance,108,9
+i need to get my tires checked out somewhere,131,schedule_maintenance,108,9
+i need someone to look at my car and tell me why the light is on,131,schedule_maintenance,108,9
+"i need an oil change, make an appointment",131,schedule_maintenance,108,9
+can you put in a meeting for the blue room on friday,18,schedule_meeting,109,0
+i have to meet with sam at 9:00am in two days,18,schedule_meeting,109,0
+can you schedule a meeting with matt for 3,18,schedule_meeting,109,0
+set a meeting with tom for 5:30 tomorrow,18,schedule_meeting,109,0
+can you hook me up with a meeting room on saturday morning at 10am,18,schedule_meeting,109,0
+can you share my current location with amy,58,share_location,110,2
+i would like to share my location with my mom,58,share_location,110,2
+let lucy know my gps coordinates,58,share_location,110,2
+trey needs my current location,58,share_location,110,2
+can you let ben and jerry know my current location,58,share_location,110,2
+what does my shopping list say that i should get,43,shopping_list,111,5
+is there milk on my shopping list,43,shopping_list,111,5
+what do i need to buy at the store,43,shopping_list,111,5
+what stuff did i put on my shopping list,43,shopping_list,111,5
+does my shopping list include corn,43,shopping_list,111,5
+put milk on my shopping list cause i'm out of it,125,shopping_list_update,112,5
+i need to add cherrios to the grocery list,125,shopping_list_update,112,5
+i would like to put carrots on my list for shopping,125,shopping_list_update,112,5
+"is bacon on my shopping list, add if it's not",125,shopping_list_update,112,5
+can you add cherrios to my shopping list,125,shopping_list_update,112,5
+turn the fan to the on position,10,smart_home,113,6
+please start my car,10,smart_home,113,6
+make sure all doors are locked,10,smart_home,113,6
+please get my car started before i go out to it,10,smart_home,113,6
+can you please turn the fan on,10,smart_home,113,6
+i need to know how to spell excellent,73,spelling,114,8
+how do you spell out espresso,73,spelling,114,8
+spell antipathy for me,73,spelling,114,8
+how do you spell verisimilitude,73,spelling,114,8
+how do you spell antipathy,73,spelling,114,8
+how much did i spend at restaurants last week,71,spending_history,115,3
+how much have i spent lately on eating out,71,spending_history,115,3
+have i been spending a lot on roast beef lately,71,spending_history,115,3
+what is the amount i have spent on food recently,71,spending_history,115,3
+i want to know my recent spending,71,spending_history,115,3
+could you connect to my phone,130,sync_device,116,2
+i need you to disconnect from my phone,130,sync_device,116,2
+go ahead and disconnect from my phone,130,sync_device,116,2
+mind connecting to my phone,130,sync_device,116,2
+please get off my phone,130,sync_device,116,2
+what does it look like my state taxes will add up to,94,taxes,117,5
+how much will i pay for state taxes this year,94,taxes,117,5
+what do you think will be the result of my federal tax return,94,taxes,117,5
+how much will my state taxes be,94,taxes,117,5
+how much did my state taxes change,94,taxes,117,5
+tell me a joke about cars,36,tell_joke,118,2
+tell me something funny about americans,36,tell_joke,118,2
+could you please tell me a good joke,36,tell_joke,118,2
+would you like to tell me a joke,36,tell_joke,118,2
+can you tell me some dog jokes,36,tell_joke,118,2
+send ally a text message the message is that i just landed,26,text,119,1
+text mom where are you,26,text,119,1
+text christopher and tell him i will stop by,26,text,119,1
+send a text to lisa and ask her to call me when she gets home,26,text,119,1
+text tony and invite him to my party next saturday,26,text,119,1
+merci beaucoup,124,thank_you,120,5
+thank you,124,thank_you,120,5
+appreciate the help,124,thank_you,120,5
+thank you for helping me,124,thank_you,120,5
+thank ya!,124,thank_you,120,5
+what's the time set to in florida right now,4,time,121,7
+the current time,4,time,121,7
+what time is it in tokyo,4,time,121,7
+the time please,4,time,121,7
+what's the time right now,4,time,121,7
+please set a 4 minute timer,32,timer,122,3
+please set a timer for 6 minutes,32,timer,122,3
+set a one minute timer,32,timer,122,3
+let me know in 15 minutes please,32,timer,122,3
+"""can u set a timer for 5 minutes",32,timer,122,3
+i need to know what timezone ireland is in,66,timezone,123,1
+what's the timezone for san diego,66,timezone,123,1
+french time zone,66,timezone,123,1
+what timezone is canada in,66,timezone,123,1
+what timezone is detroit in,66,timezone,123,1
+when should i replace my tires sense i last replaced them on 3/21/17,47,tire_change,124,5
+do my tires need to be changed,47,tire_change,124,5
+when's the next time i should change my tires,47,tire_change,124,5
+tell me when should i get my tires changed next,47,tire_change,124,5
+is there a specific date when i should get my tires changed,47,tire_change,124,5
+what is the tire pressure in my car,98,tire_pressure,125,7
+what does my tire pressure look like,98,tire_pressure,125,7
+hows the air in my tires,98,tire_pressure,125,7
+i am needing to know how low the air in my tires are,98,tire_pressure,125,7
+tell me my car's tires' air pressure,98,tire_pressure,125,7
+please read back to me my to do list,48,todo_list,126,7
+can you look to see whether feeding the fish is on my to do list,48,todo_list,126,7
+i want to hear my to do list please,48,todo_list,126,7
+what have i got on my to-do list,48,todo_list,126,7
+check my domestic to do list for carpet cleaning,48,todo_list,126,7
+delete everything from the task list,65,todo_list_update,127,1
+"on my to do list, add dishes",65,todo_list_update,127,1
+take doing the dishes off my todo list,65,todo_list_update,127,1
+please include feeding the fish on my to do list,65,todo_list_update,127,1
+please clear out my whole to do list,65,todo_list_update,127,1
+should i take a different route to work,24,traffic,128,1
+give me an idea of traffic on the way to the doctors office at 6,24,traffic,128,1
+is traffic bad on my way to the next mcdonalds,24,traffic,128,1
+how much traffic is there before the stadium,24,traffic,128,1
+is there gridlock on the street up to the stadium,24,traffic,128,1
+can you show me the transactions that were made last night at the restaurant,68,transactions,129,8
+i need some information on a recent transaction,68,transactions,129,8
+what did i spend at target on my barclays card last month,68,transactions,129,8
+let me know the list of transaction on my first hawaiian bank,68,transactions,129,8
+what was the amount that i spent on fidelity visa last month,68,transactions,129,8
+i need to move money from one account to another,133,transfer,130,0
+i would like to make a transfer,133,transfer,130,0
+please transfer $s from saving to checking,133,transfer,130,0
+i want to transfer funds between accounts,133,transfer,130,0
+move 100 dollars from checking to savings,133,transfer,130,0
+i would like to know how to say hello in french,61,translate,131,1
+how would i say hello in french,61,translate,131,1
+"what is the equivalent of, 'life is good' in french",61,translate,131,1
+translate hello in french,61,translate,131,1
+what do you call a subway if you were english,61,translate,131,1
+does italy have any travel alerts i should be aware of,128,travel_alert,132,1
+are there travel notifications for columbia,128,travel_alert,132,1
+are there any travel alerts for russia,128,travel_alert,132,1
+is it safe to travel to norway,128,travel_alert,132,1
+is it safe to travel to argentina,128,travel_alert,132,1
+i'm traveling to morocco soon and want to inform my bank,146,travel_notification,133,0
+notify my bank i'll be in rome from the 1st to the 17th,146,travel_notification,133,0
+let me bank know i will be in brazil from june 1st to july 1st,146,travel_notification,133,0
+tell my bank i'll be in jamaica from the 4th to the 11th,146,travel_notification,133,0
+the bank should know i am going to asia soon,146,travel_notification,133,0
+do you know of any activities in nashville,149,travel_suggestion,134,0
+what does kentucky have to offer for things to do,149,travel_suggestion,134,0
+"what do you suggest for entertainment in tampa, florida",149,travel_suggestion,134,0
+what are the big tourist sites in sweden,149,travel_suggestion,134,0
+what are your best travel suggestions,149,travel_suggestion,134,0
+i need an uber please,39,uber,135,4
+i need an uber pool from home in the morning at seven to the capitol building,39,uber,135,4
+i need to get 3 riders to union station,39,uber,135,4
+can i get a car to the baseball field for 12,39,uber,135,4
+please book an uber for chima's,39,uber,135,4
+could you insert broken by evanescence to my music,141,update_playlist,136,1
+add this song to my game night playlist,141,update_playlist,136,1
+can you add this song to my jazz playlist,141,update_playlist,136,1
+put the current song in my favorite playlist,141,update_playlist,136,1
+i would like to add you say by lauren daigle to my playlist,141,update_playlist,136,1
+what is the name you have listed for my identity,11,user_name,137,2
+how do you say my name,11,user_name,137,2
+you saved my name how,11,user_name,137,2
+what's my name huh,11,user_name,137,2
+you have what name for me,11,user_name,137,2
+do i need any shots before i go to south africa,52,vaccines,138,4
+which vaccinations are required to go to viet nam,52,vaccines,138,4
+if i travel to the uk do i need any shots,52,vaccines,138,4
+is it recommended to get any specific shots before i travel to norway,52,vaccines,138,4
+how many vaccinations will i need to travel to asia,52,vaccines,138,4
+where do i go to get my w2 for tax reasons,122,w2,139,9
+"where can i get the employment document that i need to do my taxes, please",122,w2,139,9
+where should i go to get a w2 to do my taxes,122,w2,139,9
+where can i find my w-2 form,122,w2,139,9
+where do i go to get my w-2,122,w2,139,9
+will it get over 90 degrees today,5,weather,140,7
+what will the weather be this weekend,5,weather,140,7
+is it cloudy or sunny in sparks,5,weather,140,7
+is sparks experiencing bad weather right now,5,weather,140,7
+weather,5,weather,140,7
+what do you do for hobbies,15,what_are_your_hobbies,141,0
+what other hobbies do you enjoy,15,what_are_your_hobbies,141,0
+what makes you happy in your free time,15,what_are_your_hobbies,141,0
+what kinds of hobbies do you enjoy,15,what_are_your_hobbies,141,0
+what you do at the free time,15,what_are_your_hobbies,141,0
+what kinds of things are you knowledgable about,115,what_can_i_ask_you,142,6
+let me know what subjects you comprehend well,115,what_can_i_ask_you,142,6
+what kinds of questions can you answer,115,what_can_i_ask_you,142,6
+what sorts of things can i ask you about,115,what_can_i_ask_you,142,6
+what are your capabilities,115,what_can_i_ask_you,142,6
+"ai, do you like your name",75,what_is_your_name,143,5
+"ai, what should i call you",75,what_is_your_name,143,5
+what can i refer to you by,75,what_is_your_name,143,5
+what name would you like me to call you,75,what_is_your_name,143,5
+tell me about yourself,75,what_is_your_name,143,5
+what's this song,21,what_song,144,8
+who sings this song,21,what_song,144,8
+tell me this song's name,21,what_song,144,8
+what is that song that's playing,21,what_song,144,8
+tell me the title of this song,21,what_song,144,8
+where is your place of origin,77,where_are_you_from,145,3
+what is your place of origin,77,where_are_you_from,145,3
+where did your mom have you,77,where_are_you_from,145,3
+where is your original location,77,where_are_you_from,145,3
+where do you come from,77,where_are_you_from,145,3
+switch to the whisper mode,14,whisper_mode,146,2
+let's whisper,14,whisper_mode,146,2
+speak quiet as though you were in a church,14,whisper_mode,146,2
+i think we should whisper,14,whisper_mode,146,2
+i want you to switch to whisper mode,14,whisper_mode,146,2
+do you know the name of your boss,57,who_do_you_work_for,147,6
+are you employed by me,57,who_do_you_work_for,147,6
+i wanna know who is your boss,57,who_do_you_work_for,147,6
+your boss is,57,who_do_you_work_for,147,6
+who is your boss,57,who_do_you_work_for,147,6
+give me an answer to who made you,96,who_made_you,148,8
+would you let me know who programmed you,96,who_made_you,148,8
+tell me what company programmed you,96,who_made_you,148,8
+who designed you,96,who_made_you,148,8
+how was this ai created,96,who_made_you,148,8
+absolutely!,107,yes,149,4
+yes that's it,107,yes,149,4
+sure thing,107,yes,149,4
+"yep, that's right",107,yes,149,4
+oh yes,107,yes,149,4

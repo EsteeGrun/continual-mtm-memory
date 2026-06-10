@@ -1,0 +1,8 @@
+project_name: continual-mtm-memory
+dataset_name: DeepPavlov/clinc_oos
+dataset_config: plus
+text_column: text
+label_column: label
+label_text_column: label_text
+num_tasks: 10
+seed: 42

@@ -1,0 +1,6 @@
+{
+  "name": "balanced_v1",
+  "fast_weight": 0.15,
+  "medium_weight": 0.7,
+  "slow_weight": 0.15
+}

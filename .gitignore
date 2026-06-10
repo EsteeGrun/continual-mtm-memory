@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# System files
+.DS_Store
+
+# Hugging Face / model caches
+.cache/
+.cache_huggingface/
+huggingface/
+models/
+
+# Large model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Logs
+*.log
+
+# Optional: local raw data/cache
+data/raw/
+data/cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

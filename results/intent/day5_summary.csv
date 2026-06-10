@@ -1,0 +1,3 @@
+method,final_average_accuracy,avg_forgetting_including_final,avg_forgetting_excluding_final,memory_examples
+sequential_frozen,0.08977777777777778,0.8433333333333334,0.9370370370370371,0
+replay_frozen,0.7835555555555557,0.14222222222222222,0.1580246913580247,3000

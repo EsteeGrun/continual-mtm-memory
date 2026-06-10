@@ -1,0 +1,6 @@
+{
+  "name": "medium_heavy_95",
+  "fast_weight": 0.025,
+  "medium_weight": 0.95,
+  "slow_weight": 0.025
+}

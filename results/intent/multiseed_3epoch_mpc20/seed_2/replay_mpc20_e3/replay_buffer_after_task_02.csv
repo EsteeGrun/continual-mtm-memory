@@ -1,0 +1,901 @@
+text,label,label_text,global_label,task_id
+do they take reservations at red robin,9,accept_reservations,0,0
+does hannahs in galloway take reservations,9,accept_reservations,0,0
+do they take reservations at outback steakhouse,9,accept_reservations,0,0
+does redrobin take reservations,9,accept_reservations,0,0
+can applebees take any reservations,9,accept_reservations,0,0
+does gramercy tavern accept reservations,9,accept_reservations,0,0
+can i make a reservation for redrobin,9,accept_reservations,0,0
+please find out if napolis takes lunch reservations,9,accept_reservations,0,0
+does pizzeria delfina in san francisco take reservations,9,accept_reservations,0,0
+does michael's accept reservations,9,accept_reservations,0,0
+do they take reservations at buffalo wild wings,9,accept_reservations,0,0
+does cielo take reservations,9,accept_reservations,0,0
+does nopa in san francisco take reservations,9,accept_reservations,0,0
+does stanleys take brunch reservations,9,accept_reservations,0,0
+does ruby tuesday accept reservations,9,accept_reservations,0,0
+does luigi's take reservations,9,accept_reservations,0,0
+do they take reservations at applebees,9,accept_reservations,0,0
+does buffalo wild wings do reservations,9,accept_reservations,0,0
+are reservations taken at redrobin,9,accept_reservations,0,0
+find out if la tour d'argent in paris takes reservations,9,accept_reservations,0,0
+how can i track the progress of my credit card application,103,application_status,3,1
+when will my credit card app be approved,103,application_status,3,1
+i want to know if my credit card application has been processed yet,103,application_status,3,1
+has my credit card application been approved,103,application_status,3,1
+is it likely my credit card application has processed yet,103,application_status,3,1
+have you heard anything back on my cc application,103,application_status,3,1
+tell me the status of my credit card application,103,application_status,3,1
+has the application for my american express been processed yet,103,application_status,3,1
+my credit card application status,103,application_status,3,1
+see if my form submission for an american express card has been seen,103,application_status,3,1
+what is the status of my new credit card application,103,application_status,3,1
+help with credit card application status,103,application_status,3,1
+"i put in a credit card application, so what is the status with it currently",103,application_status,3,1
+has the application i put in for a new visa been processed,103,application_status,3,1
+in what status is my credit card application,103,application_status,3,1
+"can you find out the latest on my credit card application, i haven't heard an update in some time",103,application_status,3,1
+where can i go to see if my credit card application has been processed,103,application_status,3,1
+do i have any updates about my credit card application,103,application_status,3,1
+did the application i put in for a mastercard go through yet,103,application_status,3,1
+i want to know if my application for a credit card at community bank has been approved or not,103,application_status,3,1
+please cancel my dinner reservation for tuesday,67,cancel_reservation,16,2
+"hello, i need to cancel tonight's reservation for dinner",67,cancel_reservation,16,2
+cancel my reservations for joe's at zepher right now,67,cancel_reservation,16,2
+my reservation for dinner needs to be canceled,67,cancel_reservation,16,2
+i no longer need a table for four at chili's,67,cancel_reservation,16,2
+can you cancel the reservation i have at 4 pm at ruth's,67,cancel_reservation,16,2
+could i cancel my reservations,67,cancel_reservation,16,2
+please cancel the reservation at zephers for joe and myself right now,67,cancel_reservation,16,2
+abandon the dinner reservation i made,67,cancel_reservation,16,2
+annul the reservation i created,67,cancel_reservation,16,2
+call off the dinner reservation,67,cancel_reservation,16,2
+cancel my party reservation for brad at longhorn,67,cancel_reservation,16,2
+joe and i are to cancel the reservation at zephers now,67,cancel_reservation,16,2
+cancel my dinner reservation please,67,cancel_reservation,16,2
+i need to cancel my dinner reservation,67,cancel_reservation,16,2
+cancel my reservation for chris at jp field's,67,cancel_reservation,16,2
+please cancel my reservation for dinner,67,cancel_reservation,16,2
+cancel tonight's dinner reservation,67,cancel_reservation,16,2
+"i don't need my reservation, cancel it",67,cancel_reservation,16,2
+can i cancel my reservations please,67,cancel_reservation,16,2
+find out why my card declined yesterday,49,card_declined,18,1
+let me know why my card got declined the other day,49,card_declined,18,1
+i wanna know why my card was declined,49,card_declined,18,1
+find out what happened to make my card get declined yesterday,49,card_declined,18,1
+how come my card was not accepted yesterday,49,card_declined,18,1
+how come starbucks declined my card when i tried to use it to pay,49,card_declined,18,1
+i don't understand why my card was declined yesterday,49,card_declined,18,1
+why did you decline my card at sfo,49,card_declined,18,1
+my card didn't go through when i was buying a case of water at walmart,49,card_declined,18,1
+i need to know why my card was declined,49,card_declined,18,1
+my card was not accepted for buying a computer at best buy,49,card_declined,18,1
+why did my card get rejected yesterday,49,card_declined,18,1
+i wonder why my card got declined yesterday,49,card_declined,18,1
+please tell me why my card was declined,49,card_declined,18,1
+i was at safeway trying to buy groceries and my card got declined,49,card_declined,18,1
+i need to know why my card declined yesterday,49,card_declined,18,1
+why did my card get declined at the dentist office,49,card_declined,18,1
+i was at walmart today and my card got declined when i went to buy qtips,49,card_declined,18,1
+i was at whole foods trying to buy groceries and my card got declined,49,card_declined,18,1
+i went to target to buy a mug but my card did not work,49,card_declined,18,1
+tell me my credit rating,69,credit_score,30,1
+how do i find out my credit rating,69,credit_score,30,1
+how to see my credit score,69,credit_score,30,1
+let me know my credit score,69,credit_score,30,1
+what's my credit score,69,credit_score,30,1
+what is the number of my credit score,69,credit_score,30,1
+i would like to be told about my credit rating,69,credit_score,30,1
+can you tell me my credit score,69,credit_score,30,1
+lets look up my credit score,69,credit_score,30,1
+inform me of my credit score,69,credit_score,30,1
+what is my fica score,69,credit_score,30,1
+how is my credit score rated,69,credit_score,30,1
+what is my credit score,69,credit_score,30,1
+say my credit score,69,credit_score,30,1
+i am trying to find my credit score,69,credit_score,30,1
+let me understand my credit rating,69,credit_score,30,1
+get my credit score,69,credit_score,30,1
+where can i find my credit score,69,credit_score,30,1
+show me my credit score,69,credit_score,30,1
+how do i locate my current credit score,69,credit_score,30,1
+i can't use my damaged card,87,damaged_card,32,1
+i demagnetized my card and want to report it,87,damaged_card,32,1
+my card is too scratched up and i need to report it,87,damaged_card,32,1
+i want to report my damaged card i accidentally cut it up thinking it was my expired card,87,damaged_card,32,1
+i need a new card because my dog chewed on it and now it does not work,87,damaged_card,32,1
+the magnetic strip on my card is scratched up pretty badly from overuse can i get a new one,87,damaged_card,32,1
+"an atm ate my card, how do i report it",87,damaged_card,32,1
+my card is damaged and no longer function,87,damaged_card,32,1
+i broke my card,87,damaged_card,32,1
+"unfortunately, my card is damaged and unusable",87,damaged_card,32,1
+who do i report to if my credit card snaps,87,damaged_card,32,1
+my card doesn't work anymore,87,damaged_card,32,1
+"my card got melted in the dryer and i need to report it, please",87,damaged_card,32,1
+i dropped my card in my gasoline and the printing wore off,87,damaged_card,32,1
+"my card got scratched badly, can you tell my bank to send a replacement",87,damaged_card,32,1
+the sticker on my card is peeling off,87,damaged_card,32,1
+"my card is wrecked, let's report it",87,damaged_card,32,1
+my card has been erased and i need to report it,87,damaged_card,32,1
+"my card snapped, can you tell my bank to send a replacement",87,damaged_card,32,1
+"i cut up the wrong card, please contact the bank and let them know",87,damaged_card,32,1
+what types of pets do you own,34,do_you_have_pets,38,0
+tell me if you like cats or dogs,34,do_you_have_pets,38,0
+how many different pets do you have,34,do_you_have_pets,38,0
+do you have any type of pet,34,do_you_have_pets,38,0
+"think about if you could only say one or the other, which animal do you see yourself choosing, cats or dogs",34,do_you_have_pets,38,0
+"what kind of person are you, a cat or dog",34,do_you_have_pets,38,0
+what type of pet do you have,34,do_you_have_pets,38,0
+"what sort of person are you, a cat or dog person",34,do_you_have_pets,38,0
+"what is your favorite pet, a cat or a dog",34,do_you_have_pets,38,0
+can you tell me about the pets you have,34,do_you_have_pets,38,0
+what kind of pets live with you,34,do_you_have_pets,38,0
+"specifically, what pets do you own",34,do_you_have_pets,38,0
+"if you had to choose, cat or dog",34,do_you_have_pets,38,0
+let me know about your pets,34,do_you_have_pets,38,0
+what are your pets,34,do_you_have_pets,38,0
+tell me about your pets,34,do_you_have_pets,38,0
+what is your favourite pet,34,do_you_have_pets,38,0
+what sort of animals are your pets,34,do_you_have_pets,38,0
+do you own pets,34,do_you_have_pets,38,0
+"if you had to choose, would you choose a cat or a dog",34,do_you_have_pets,38,0
+what is the yen worth in terms of the peso,38,exchange_rate,39,0
+i would love to know the exchange rate between rubles and pounds,38,exchange_rate,39,0
+how many dollars can i exchange for 10000 yen,38,exchange_rate,39,0
+tell me the exchange rate between dollars and pesos,38,exchange_rate,39,0
+how much cad can i get with my one usd,38,exchange_rate,39,0
+i wanna know five dollars in yen and rubles,38,exchange_rate,39,0
+how many pesos can i get for one dollar,38,exchange_rate,39,0
+what's the currency conversion between usd and pounds,38,exchange_rate,39,0
+what's 10 euros in dollars,38,exchange_rate,39,0
+i need the exchange rate between pounds and us dollars,38,exchange_rate,39,0
+i need to know five dollars in yen and rubles,38,exchange_rate,39,0
+how many dollars can i exchange for 75 euros,38,exchange_rate,39,0
+what's 10 pounds in dollars,38,exchange_rate,39,0
+tell me five dollars in yen and rubles,38,exchange_rate,39,0
+what is the exchange rate for canadian dollars to us dollars,38,exchange_rate,39,0
+what's the currency conversion between usd and yen,38,exchange_rate,39,0
+what is 5 in yen and rubles,38,exchange_rate,39,0
+how many canadian dollars can i get for 5 us dollars,38,exchange_rate,39,0
+let me know what the exchange rate between dollars and pesos is,38,exchange_rate,39,0
+what is the equal number of dollars i can exchange for 50 pesos,38,exchange_rate,39,0
+when will my visa next expire,44,expiration_date,40,0
+how long is it until my credit card expires,44,expiration_date,40,0
+tell me the expiry month of my card,44,expiration_date,40,0
+on what month and year does my card expire,44,expiration_date,40,0
+look up the expiration date for my barclay's card,44,expiration_date,40,0
+please find the expiration month listed on my card,44,expiration_date,40,0
+how long til my visa card expires,44,expiration_date,40,0
+please let me know when i need to renew my credit card,44,expiration_date,40,0
+when is the date my visa card will expire,44,expiration_date,40,0
+when's my visa card expiring,44,expiration_date,40,0
+tell me the month my card expires,44,expiration_date,40,0
+which month is the one in which my card expires,44,expiration_date,40,0
+please look up my card's expiration date,44,expiration_date,40,0
+how long until i my card expires,44,expiration_date,40,0
+when is my card going to expire,44,expiration_date,40,0
+how long is the validity of my credit card,44,expiration_date,40,0
+when is my credit due to expire,44,expiration_date,40,0
+can i have the expiration date for my capital one card,44,expiration_date,40,0
+how soon does my visa card expire,44,expiration_date,40,0
+how much longer until my credit card expires,44,expiration_date,40,0
+tell me that status of flight dl123,80,flight_status,42,2
+when will my flight land,80,flight_status,42,2
+can you tell me when my flight is going to board,80,flight_status,42,2
+whats the latest on flight dl123,80,flight_status,42,2
+how long until delta is at the gate,80,flight_status,42,2
+update me on my delta flight please,80,flight_status,42,2
+when will my aa flight be landing,80,flight_status,42,2
+tell me when my flight is landing,80,flight_status,42,2
+when will my delta flight depart,80,flight_status,42,2
+what is the scheduled arrival time for my flight,80,flight_status,42,2
+what is the eta of my flight,80,flight_status,42,2
+what is the word on flight dl123,80,flight_status,42,2
+what time will my flight reach the destination,80,flight_status,42,2
+look up when my flight is set to start boarding,80,flight_status,42,2
+when is my flight supposed to leave,80,flight_status,42,2
+what time is my flight supposed to be landing,80,flight_status,42,2
+whats the status of my south west flight,80,flight_status,42,2
+at what time will my flight begin boarding,80,flight_status,42,2
+whats the most recent status for my virgin air flight,80,flight_status,42,2
+when's my flight boarding,80,flight_status,42,2
+i want to find out if this will hurt my credit,28,improve_credit_score,53,1
+how can i ensure my credit score doesn't drop,28,improve_credit_score,53,1
+is it possible to lower my credit score by doing this,28,improve_credit_score,53,1
+how to keep credit score high,28,improve_credit_score,53,1
+can i protect my credit score,28,improve_credit_score,53,1
+how to protect my credit score,28,improve_credit_score,53,1
+how do i build credit,28,improve_credit_score,53,1
+how do i maintain my credit score,28,improve_credit_score,53,1
+how do i prevent my credit score from lowering,28,improve_credit_score,53,1
+how do i build my credit score,28,improve_credit_score,53,1
+tell me ways to improve my credit score,28,improve_credit_score,53,1
+does carrying a balance hurt my credit score,28,improve_credit_score,53,1
+how can i improve my credit score,28,improve_credit_score,53,1
+how to keep my credit score from going down,28,improve_credit_score,53,1
+how is the credit score hurt,28,improve_credit_score,53,1
+will doing this hurt my credit score,28,improve_credit_score,53,1
+how do i keep good credit,28,improve_credit_score,53,1
+how do i make my credit score better,28,improve_credit_score,53,1
+so how can i hurt my credit score,28,improve_credit_score,53,1
+i need a list of different methods for building my credit score,28,improve_credit_score,53,1
+what is the surcharge for using my card in italy while i visit,137,international_fees,60,2
+what are the fees for using my card in toronto,137,international_fees,60,2
+will i be charged if i use my card in canada,137,international_fees,60,2
+will my discover card ding me with transaction fees if i'm in aruba,137,international_fees,60,2
+is there a fee associated with use of my card in burkina faso,137,international_fees,60,2
+how much is the charge of using my card in italy during my stay there,137,international_fees,60,2
+do i have to pay international transaction fees when i use my chase card,137,international_fees,60,2
+will i be charged if i use my card in france,137,international_fees,60,2
+what are the transaction fee using our card in florence if any,137,international_fees,60,2
+"if i use my card in mexico, will there be added fees",137,international_fees,60,2
+are there any transaction fee if i use my boston private card in scotland,137,international_fees,60,2
+does my bank of the west card have international transaction fees,137,international_fees,60,2
+will i be charged if i use my card in mexico,137,international_fees,60,2
+give me a list of international transaction fees for my amex,137,international_fees,60,2
+do i have to pay amex transaction fees in brazil,137,international_fees,60,2
+does american express charge transaction fees for iceland,137,international_fees,60,2
+if i use my card in denver will i get charged extra,137,international_fees,60,2
+can i see all the international transaction fees on my amex,137,international_fees,60,2
+does visa charge transaction fees in the uk,137,international_fees,60,2
+what are my chase cards fees for international transactions,137,international_fees,60,2
+do i need to apply for a travel visa if i am going to bermuda,59,international_visa,61,0
+do i need to get a visa for traveling to chile,59,international_visa,61,0
+i'm going to jamaica next week; am i needing a visa,59,international_visa,61,0
+will i need a visa to visit ireland,59,international_visa,61,0
+do i need a visa to travel to canada,59,international_visa,61,0
+would i need a travel visa to go to the congo,59,international_visa,61,0
+"to visit cambodia, do i need an international visa",59,international_visa,61,0
+am i in need of an international visa to go to france,59,international_visa,61,0
+does laos require a travel visa,59,international_visa,61,0
+does mexico require an international visa,59,international_visa,61,0
+i need to know if i must have an international visa to go to france,59,international_visa,61,0
+is it necessary to apply for a tourist visa for mexico,59,international_visa,61,0
+what paperwork will i need to visit northern ireland,59,international_visa,61,0
+do i need a visa to travel to jamaica,59,international_visa,61,0
+i'm vacationing in israel will i need a visa,59,international_visa,61,0
+let me know if i need an international visa to go to sudan,59,international_visa,61,0
+do i need an international visa to go to malaysia,59,international_visa,61,0
+do i need an international visa to go to spain,59,international_visa,61,0
+will i need a travel visa to go to canary islands,59,international_visa,61,0
+should i get a travel visa for spain,59,international_visa,61,0
+how long has it been since my last auto maintenance,37,last_maintenance,63,0
+how long ago was my car last in the shop,37,last_maintenance,63,0
+what date did i have my oil changed last,37,last_maintenance,63,0
+when did i last take my car in for maintenance,37,last_maintenance,63,0
+how long has it been since my car was last looked at,37,last_maintenance,63,0
+what was the last time i had my car at the dealer for repairs,37,last_maintenance,63,0
+tell me when my car last had its oil changed,37,last_maintenance,63,0
+when was the last time i had an oil change,37,last_maintenance,63,0
+when did last go to the auto repair shop,37,last_maintenance,63,0
+please find the date of my last oil change,37,last_maintenance,63,0
+tell me when someone looked at my car last,37,last_maintenance,63,0
+when was the last time i changed my oil,37,last_maintenance,63,0
+when did i go to the mechanic,37,last_maintenance,63,0
+when was the last time i got my oil changed,37,last_maintenance,63,0
+when was the last time my car was in the shop,37,last_maintenance,63,0
+was my last oil change on wednesday,37,last_maintenance,63,0
+let me know when my car was last looked at,37,last_maintenance,63,0
+do you know when my car was last looked at,37,last_maintenance,63,0
+can you find the date of my last oil change,37,last_maintenance,63,0
+when did i last have a mechanic check out my car,37,last_maintenance,63,0
+i need to call mark,25,make_call,65,0
+call mark,25,make_call,65,0
+please call toby,25,make_call,65,0
+can you call dominos pizza,25,make_call,65,0
+i must call jordan,25,make_call,65,0
+call macy,25,make_call,65,0
+place a phone call to yiming,25,make_call,65,0
+can you call my mom,25,make_call,65,0
+phone steven,25,make_call,65,0
+i must call dr smith,25,make_call,65,0
+dial x's phone please,25,make_call,65,0
+it is important that i call katie,25,make_call,65,0
+phonecall sarah,25,make_call,65,0
+call friend,25,make_call,65,0
+use my phone to dial work,25,make_call,65,0
+can you make a phone call to mark,25,make_call,65,0
+please phone lizzy,25,make_call,65,0
+dial someone's phone number,25,make_call,65,0
+can you redial the last number dialed,25,make_call,65,0
+x is who i need to call,25,make_call,65,0
+i don't know how to answer to that,121,maybe,66,2
+not a clue,121,maybe,66,2
+i haven't the foggiest,121,maybe,66,2
+"maybe one, maybe the other",121,maybe,66,2
+i don't have the answer,121,maybe,66,2
+"might be true, might be false",121,maybe,66,2
+not sure if that's a yes or a no,121,maybe,66,2
+that answer's above my pay scale,121,maybe,66,2
+im not certain,121,maybe,66,2
+i can't answer that,121,maybe,66,2
+really dont know,121,maybe,66,2
+shit if i know,121,maybe,66,2
+i haven't a clue,121,maybe,66,2
+it depends,121,maybe,66,2
+"sorry, i do not know",121,maybe,66,2
+both maybe,121,maybe,66,2
+i'm unsure of the proper answer,121,maybe,66,2
+maybe,121,maybe,66,2
+i am not confident on that,121,maybe,66,2
+not quite sure how to respond,121,maybe,66,2
+got any good dinner ideas,46,meal_suggestion,67,2
+can you give me a burmese dinner suggestion,46,meal_suggestion,67,2
+any suggestions for a peruvian meal,46,meal_suggestion,67,2
+can you suggest meals from italy to me,46,meal_suggestion,67,2
+go ahead and give me a suggestion for what to make for dinner,46,meal_suggestion,67,2
+i need new dinner ideas,46,meal_suggestion,67,2
+i'm looking for a good suggestion for norse cuisine,46,meal_suggestion,67,2
+what peruvian dish should i make,46,meal_suggestion,67,2
+what kind of mexican meal should i get,46,meal_suggestion,67,2
+i'd like you to give me an idea for a meal from iceland,46,meal_suggestion,67,2
+"i need to cook, what should i make",46,meal_suggestion,67,2
+can you give me a vietnamese meal suggestion,46,meal_suggestion,67,2
+let me pick your brain what do you think we should do for dinner tonight,46,meal_suggestion,67,2
+do you know any greek dishes i could make for dinner,46,meal_suggestion,67,2
+suggest a meal from thailand to me,46,meal_suggestion,67,2
+what would you suggest for dinner,46,meal_suggestion,67,2
+give me italian meal ideas,46,meal_suggestion,67,2
+what should i have for dinner,46,meal_suggestion,67,2
+what's the best pizza place around here,46,meal_suggestion,67,2
+what's a good french meal,46,meal_suggestion,67,2
+what is my average mpg in this car,142,mpg,72,1
+what'll this car do for gas mileage on the open road,142,mpg,72,1
+do you know what this car's mpg is,142,mpg,72,1
+how many mpg does this car have,142,mpg,72,1
+how many miles will a gallon of gas take this car,142,mpg,72,1
+how expensive is it to fuel this car,142,mpg,72,1
+how many miles per gallon am i getting,142,mpg,72,1
+how many miles per gallon does it get on the highway,142,mpg,72,1
+how's the fuel efficiency for city driving for this car,142,mpg,72,1
+how many miles per gallon does my car get,142,mpg,72,1
+what is the highway mpg on this car,142,mpg,72,1
+does this car get good mpg on the highway,142,mpg,72,1
+how many miles does my car get per gallon,142,mpg,72,1
+"in my car, what's the fuel economy",142,mpg,72,1
+whats the cars mpg,142,mpg,72,1
+is the fuel economy of this car good or bad,142,mpg,72,1
+what's the mpg for the car when it's on the highway,142,mpg,72,1
+how much gas does this car use in the city,142,mpg,72,1
+please tell me what the mpg is for this car,142,mpg,72,1
+what is the mpg of this car,142,mpg,72,1
+play the next song on this list,118,next_song,75,0
+play the next song queued up,118,next_song,75,0
+go to next song,118,next_song,75,0
+please play the next song,118,next_song,75,0
+play next song using this playlist,118,next_song,75,0
+please put on the next number on this playlist,118,next_song,75,0
+go past this song,118,next_song,75,0
+play the song coming on next,118,next_song,75,0
+beginning playing the next tune,118,next_song,75,0
+"can you play the next song on this playlist, please",118,next_song,75,0
+hop to the next one,118,next_song,75,0
+play the next hit,118,next_song,75,0
+listen to next song on playlist,118,next_song,75,0
+move to the next song,118,next_song,75,0
+give me the next song,118,next_song,75,0
+play the next song instead,118,next_song,75,0
+play the next tune,118,next_song,75,0
+please play the next song on this playlist,118,next_song,75,0
+go forward to the next song on the playlist,118,next_song,75,0
+remember to play the next number on this particular playlist,118,next_song,75,0
+how can i order some more checks for my checking account,127,order_checks,81,2
+i need more checkbooks for my chase account,127,order_checks,81,2
+i would like a reorder of checkbooks for my home equity line of credit with chase,127,order_checks,81,2
+i would like to order additional checkbooks to me mailed to my home address,127,order_checks,81,2
+i need to order more checkbooks for my capital one account,127,order_checks,81,2
+i need to order more checks for my savings account,127,order_checks,81,2
+i need to order new checks,127,order_checks,81,2
+can you order new checks for my citizens checking,127,order_checks,81,2
+i really need to order some more checks for my savings account,127,order_checks,81,2
+how can i order more checkbooks by mail,127,order_checks,81,2
+"i recently ran out of checks, so i wanna get some new ones",127,order_checks,81,2
+if i need more checkbooks maild to me what should i do,127,order_checks,81,2
+please submit an order for new checks on my pnc money market account,127,order_checks,81,2
+can i get some more of those new checkbooks mailed to me,127,order_checks,81,2
+my key bank checks have run out,127,order_checks,81,2
+i feel i would like to get some more checkbooks mailed to me,127,order_checks,81,2
+i don't have anymore checks for chase and need some,127,order_checks,81,2
+"i'd like to get some more checkbooks mailed to me, if i can",127,order_checks,81,2
+i need to get some more checkbooks mailed to me,127,order_checks,81,2
+is it possible to get more checkbooks for my navy fed account,127,order_checks,81,2
+can you help me pay my phone bill,111,pay_bill,83,1
+i want to pay my rent bill,111,pay_bill,83,1
+pay the cable bill with my visa card,111,pay_bill,83,1
+i need your help to pay my gas bill,111,pay_bill,83,1
+can you pay the bill now,111,pay_bill,83,1
+help me pay my cable bill,111,pay_bill,83,1
+i want to pay that bill now,111,pay_bill,83,1
+i want to do a payment on my water bill,111,pay_bill,83,1
+i got to pay my cable bill,111,pay_bill,83,1
+i want to pay my house bill,111,pay_bill,83,1
+pay my cable bill from my checking account,111,pay_bill,83,1
+i gotta pay my cable bill,111,pay_bill,83,1
+i need help paying my tuition bill,111,pay_bill,83,1
+can i pay a bill,111,pay_bill,83,1
+i need help paying my water bill,111,pay_bill,83,1
+please tell me how to pay my gas bill,111,pay_bill,83,1
+do a car payment from my savings account,111,pay_bill,83,1
+help me pay my electric bill,111,pay_bill,83,1
+i really want to pay my cable bill from my checking account,111,pay_bill,83,1
+pay a bribe using my money market account,111,pay_bill,83,1
+can you help me remember my pin to my boa account,89,pin_change,85,0
+change my pin number for my checking account,89,pin_change,85,0
+tell me how i can get a new pin number,89,pin_change,85,0
+i have no idea what the pin is for my checking account,89,pin_change,85,0
+change the pin on my chase account to be 1234,89,pin_change,85,0
+i'm afraid i've forgotten the pin for my 401k account,89,pin_change,85,0
+how do i change my pin for number for my abc bank account,89,pin_change,85,0
+how do i change my pin number for my payroll account,89,pin_change,85,0
+help me get my pin on my capitol one account changed to 3892,89,pin_change,85,0
+i cant recall my pin number for my city first account,89,pin_change,85,0
+how do i get a new pin,89,pin_change,85,0
+i would like to replace the pin number for my retirement account,89,pin_change,85,0
+tell me how to change my pin number,89,pin_change,85,0
+change my amex account pin to 1234,89,pin_change,85,0
+change the pin on my bofa account to 3892,89,pin_change,85,0
+what is the procedure for getting a new pin number,89,pin_change,85,0
+"how do i get my pin number, i forgot mine",89,pin_change,85,0
+"how do i update my pin number for my account, please",89,pin_change,85,0
+i cannot recall the pin for my savings account,89,pin_change,85,0
+i'd like to change my pin number for my checking account,89,pin_change,85,0
+rock music playlist,106,play_music,86,2
+let's hear my workout playlist,106,play_music,86,2
+can you let me listen to elvis,106,play_music,86,2
+can you play music,106,play_music,86,2
+play my post-rock playlist,106,play_music,86,2
+can u play the song that sound like bells going off,106,play_music,86,2
+play the song that goes like hey jude don't make it bad,106,play_music,86,2
+do you have music by elvis,106,play_music,86,2
+i need for you to play my maroon 5 playlist,106,play_music,86,2
+please play 1979 by the smashing pumpkins,106,play_music,86,2
+i need to play the song that goes like hey jude don't make it bad,106,play_music,86,2
+may i hear some music by fleet foxes,106,play_music,86,2
+can you play elvis,106,play_music,86,2
+turn on the rap playlist,106,play_music,86,2
+play rock playlist,106,play_music,86,2
+i want to play my maroon 5 playlist,106,play_music,86,2
+play some music,106,play_music,86,2
+i need to listen to my beyonce playlist,106,play_music,86,2
+can you put on music by beach house,106,play_music,86,2
+play heart shaped box,106,play_music,86,2
+i need to know how many days so far i've taken off,148,pto_used,91,2
+i've used how much pto so far,148,pto_used,91,2
+how many vacation days did i use,148,pto_used,91,2
+what's the number of day's i've taken off,148,pto_used,91,2
+which days did i take vacation,148,pto_used,91,2
+how many vacation days have i consumed,148,pto_used,91,2
+i need to know how many of my days off i have used at this point,148,pto_used,91,2
+what is the total number of vacation days i've used,148,pto_used,91,2
+please find out how many of my vacation days i have spent,148,pto_used,91,2
+check to see how many days off i have used,148,pto_used,91,2
+look up my total number of days off so far,148,pto_used,91,2
+what amount of days off have i already utilized,148,pto_used,91,2
+how many vacation days have i used up,148,pto_used,91,2
+how much vacation have i already used this year,148,pto_used,91,2
+"including the day i missed because of snow, how much time have i take off work so far",148,pto_used,91,2
+how many of my vacation days have i depleted,148,pto_used,91,2
+"how many sick, personal, and vacation days have i billed so far this year",148,pto_used,91,2
+what amount of pto have i taken,148,pto_used,91,2
+what's the total pto i've used,148,pto_used,91,2
+please find out how many days off i have used by this point,148,pto_used,91,2
+what steps are involved in making lasagna,104,recipe,92,1
+how do you make blackberry pie,104,recipe,92,1
+i need help finding a recipe for enchiladas,104,recipe,92,1
+i need a really good recipe for making doughnuts,104,recipe,92,1
+i want to make sour dough bread please find a good recipe for me,104,recipe,92,1
+how do i make the perfect omelette,104,recipe,92,1
+is there a recipe for chili i can use,104,recipe,92,1
+how do i make lemon merengue pie,104,recipe,92,1
+tell me how to make beef wellington,104,recipe,92,1
+i would like you to help me find a chow mein recipe,104,recipe,92,1
+how do i make beef stroganoff,104,recipe,92,1
+what is a good chili recipe,104,recipe,92,1
+you know procedure to cook apple pie,104,recipe,92,1
+do you know how to make chow mein,104,recipe,92,1
+can you find me a recipe for cheese cake,104,recipe,92,1
+can you find me a recipe for pasta,104,recipe,92,1
+search for a macaroni and cheese recipe,104,recipe,92,1
+can you teach me how to make sushi,104,recipe,92,1
+can you find me a recipe for sugar cookies,104,recipe,92,1
+i want a good recipe that shows me how to bake chocolate chip cookies from scratch,104,recipe,92,1
+give me a reminder for calling bill,53,reminder_update,95,0
+please remind me later,53,reminder_update,95,0
+set a reminder for me to take my meds,53,reminder_update,95,0
+make a reminder for me to do my resume,53,reminder_update,95,0
+set a reminder to pick up the kids,53,reminder_update,95,0
+please make a reminder,53,reminder_update,95,0
+remind me to call my mother saturday morning,53,reminder_update,95,0
+set a reminder for later,53,reminder_update,95,0
+set reminder to feed cat tonight at 6pm,53,reminder_update,95,0
+set a reminder to take out the trash,53,reminder_update,95,0
+set a reminder to remind me to check when my car payment is,53,reminder_update,95,0
+please give me a reminder,53,reminder_update,95,0
+set reminder pay taxes on monday,53,reminder_update,95,0
+remind me again please,53,reminder_update,95,0
+please reminder for car meet,53,reminder_update,95,0
+i'd like to have a reminder made,53,reminder_update,95,0
+add a reminder to pick milk up at the store,53,reminder_update,95,0
+please remind me to do this later,53,reminder_update,95,0
+remind me to take out the garbage in the morning,53,reminder_update,95,0
+can you set me a reminder,53,reminder_update,95,0
+can you get me a table for 8 at johnnys,23,restaurant_reservation,101,2
+can you make a reservation at the restaurant for tomorrow,23,restaurant_reservation,101,2
+make a reservation for 2 at red lobster at 8pm,23,restaurant_reservation,101,2
+can you get me a table for 3 at captain d's at 2pm,23,restaurant_reservation,101,2
+i think i need to make a reservation for 8 pm at red robin for 3,23,restaurant_reservation,101,2
+reserve a table for 4 at red lobster under the name dave at 7:30pm,23,restaurant_reservation,101,2
+i gotta make a reservation for 8 pm at red robin for 3,23,restaurant_reservation,101,2
+reserve a table for 2 at red lobster at 8:00,23,restaurant_reservation,101,2
+can i have a table held at the outback steakhouse for johnson at 5,23,restaurant_reservation,101,2
+i need an 8 o'clock reservation at pizza hut for the last name mercury,23,restaurant_reservation,101,2
+i'd like to set up a reservation for kibble at 4,23,restaurant_reservation,101,2
+"i think we should reserve dad's regular table friday for 6 people, use his name, make that close to 4:00 pm at the club",23,restaurant_reservation,101,2
+check reservation availability for 2 at red lobster at 8pm,23,restaurant_reservation,101,2
+can you get me a table for 3 at olive garden at 7pm,23,restaurant_reservation,101,2
+can you get me a table for 6 at mark's at 11am,23,restaurant_reservation,101,2
+can you get me a table for 6 at lawry's at 7:30pm,23,restaurant_reservation,101,2
+can you get me a table for 1 at the vega at 1pm,23,restaurant_reservation,101,2
+book a reservation for 5 at lawry's under the name chris,23,restaurant_reservation,101,2
+can you get me a table for 8 at mastro's at 8:30pm,23,restaurant_reservation,101,2
+can i make a reservation for 8 pm at red robin for 3,23,restaurant_reservation,101,2
+how would i be able to check my kohls rewards card,50,rewards_balance,104,2
+what is my chase card's rewards balance,50,rewards_balance,104,2
+what's my reward balance on my amex card,50,rewards_balance,104,2
+how can i look at rewards for my amex card,50,rewards_balance,104,2
+how many points do i have in total on my marriot rewards card,50,rewards_balance,104,2
+can i check my gold rewards card online,50,rewards_balance,104,2
+what's my total point number on my mastercard,50,rewards_balance,104,2
+how do i get my rewards balance on my diner's club card,50,rewards_balance,104,2
+how many points did i get on my visa card,50,rewards_balance,104,2
+how many rewards points do i have for my visa card,50,rewards_balance,104,2
+i need to know my rewards balance on my discover card,50,rewards_balance,104,2
+what's the current reward amount on my mastercard,50,rewards_balance,104,2
+what the current balance of reward points on my mastercard,50,rewards_balance,104,2
+what is the easiest way to check my bank rewards card,50,rewards_balance,104,2
+what is my bank of america card's rewards balance,50,rewards_balance,104,2
+how many points did i get on my discover card,50,rewards_balance,104,2
+how can i see my rewards for my visa card,50,rewards_balance,104,2
+what's the amount of points i have earned with my discover card,50,rewards_balance,104,2
+"i would like my total rewards points balance on my bank of america platinum rewards card, please",50,rewards_balance,104,2
+how many points do i have on my mastercard,50,rewards_balance,104,2
+how is a meeting scheduled,18,schedule_meeting,109,0
+schedule a meeting for me,18,schedule_meeting,109,0
+add a new meeting with tom for 6pm,18,schedule_meeting,109,0
+are there any meetings room available between 8:00 and 9:00 am,18,schedule_meeting,109,0
+see if you can schedule a meeting with don southerland tomorrow at noon,18,schedule_meeting,109,0
+"can you schedule a meeting with steve at the office, please",18,schedule_meeting,109,0
+i want to know if there is meeting room available at 8,18,schedule_meeting,109,0
+i need to schedule a meeting,18,schedule_meeting,109,0
+are there any open meeting rooms between noon and 1,18,schedule_meeting,109,0
+what is the availability of meeting rooms during the afternoon,18,schedule_meeting,109,0
+i want to schedule a meeting with tom for 6pm,18,schedule_meeting,109,0
+how do i create a meeting,18,schedule_meeting,109,0
+i'd like to pencil in a meeting with seth at 11am,18,schedule_meeting,109,0
+add a meeting with tom at 6pm,18,schedule_meeting,109,0
+can you hook me up with a meeting room on saturday morning at 10am,18,schedule_meeting,109,0
+schedule a meeting with tom for 6pm,18,schedule_meeting,109,0
+are there any meeting rooms free from 10:00 am until 10:30 am,18,schedule_meeting,109,0
+please help me schedule a meeting with john love at 9 am tomorrow,18,schedule_meeting,109,0
+i want to check if there is any meeting room available between 8:00 and 10:00 am,18,schedule_meeting,109,0
+how can i create a meeting,18,schedule_meeting,109,0
+my friend steve needs my gps coordinates send them to him,58,share_location,110,2
+please show my current location to andre,58,share_location,110,2
+send my location to ben and jerry,58,share_location,110,2
+share my location with ma,58,share_location,110,2
+gps coordinates share with home,58,share_location,110,2
+give me current gps coordinates to my sister,58,share_location,110,2
+i need you to let mr miyagi and daniel know where i am,58,share_location,110,2
+let ben and jerry know where i am,58,share_location,110,2
+i need to share my location with trey,58,share_location,110,2
+please tell my location to bob,58,share_location,110,2
+can you tell bob and alice where i am,58,share_location,110,2
+tell john and sam where i am,58,share_location,110,2
+can you show ben and jerry where i am currently at,58,share_location,110,2
+send my current location to my superior,58,share_location,110,2
+let shih chieh see my location,58,share_location,110,2
+how can i show noel where i am right now,58,share_location,110,2
+"share my location with mom, please",58,share_location,110,2
+i need you to send my location to paul and ryan,58,share_location,110,2
+how do i share my location with noel,58,share_location,110,2
+can you share my current location with amy,58,share_location,110,2
+disconnect from my phone please,130,sync_device,116,2
+please link up to my cell,130,sync_device,116,2
+do you have access to my phone,130,sync_device,116,2
+establish a connection to my phone,130,sync_device,116,2
+pair with my phone,130,sync_device,116,2
+you must connect to my phone,130,sync_device,116,2
+"disconnect from my phone now, please",130,sync_device,116,2
+are you able to link to my phone,130,sync_device,116,2
+connect to my phone for me,130,sync_device,116,2
+please connect with my phone,130,sync_device,116,2
+connect with my phone please,130,sync_device,116,2
+please link up to my phone,130,sync_device,116,2
+can you get access to my phone right now,130,sync_device,116,2
+you have to connect to my phone,130,sync_device,116,2
+i don't want this phone synced any more,130,sync_device,116,2
+would you connect to my phone,130,sync_device,116,2
+desync from my iphone,130,sync_device,116,2
+i need to disconnect from my phone,130,sync_device,116,2
+would you disconnect from my phone,130,sync_device,116,2
+could you connect to my phone,130,sync_device,116,2
+tell me a funny joke,36,tell_joke,118,2
+would you tell me a joke,36,tell_joke,118,2
+tell me a joke about baseball,36,tell_joke,118,2
+tell me something funny,36,tell_joke,118,2
+i would like to hear a funny joke,36,tell_joke,118,2
+i wanna hear something funny,36,tell_joke,118,2
+can you tell me a joke about politicians,36,tell_joke,118,2
+what's the funniest thing you know about peanuts,36,tell_joke,118,2
+i could really use a laugh right now,36,tell_joke,118,2
+tell me a joke about politicians,36,tell_joke,118,2
+can you tell me a joke,36,tell_joke,118,2
+can you tell me any truly funny knock knock jokes,36,tell_joke,118,2
+i'd like to hear a joke about donkeys,36,tell_joke,118,2
+what jokes do you know,36,tell_joke,118,2
+please tell me a joke,36,tell_joke,118,2
+say something funny,36,tell_joke,118,2
+make me laugh,36,tell_joke,118,2
+can you make me laugh,36,tell_joke,118,2
+tell me something funny about politics,36,tell_joke,118,2
+tell me a joke about cars,36,tell_joke,118,2
+i want you to send a text message for me,26,text,119,1
+send a text message to alice,26,text,119,1
+compose text message,26,text,119,1
+please send a message to peter telling him to pick up milk,26,text,119,1
+create a new text message,26,text,119,1
+can you send a text for me,26,text,119,1
+please send a text,26,text,119,1
+send my brother mike a text that says i'm home,26,text,119,1
+text nick and tell him the car's ready,26,text,119,1
+can you text kayla and tell them im running late,26,text,119,1
+can you text mary and tell them it's ready,26,text,119,1
+can you text the sgt adam and tell them i found the missing girl,26,text,119,1
+send ally a text message the message is that i just landed,26,text,119,1
+text roderick and tell him im running late,26,text,119,1
+text william and ask him to pick up organic apples tonight,26,text,119,1
+send a text message for me,26,text,119,1
+i need you to text someone for me,26,text,119,1
+text a message to alice,26,text,119,1
+write text message to someone,26,text,119,1
+please send a text to phil and ask him if he wants to play golf this weekend,26,text,119,1
+what timezone is boise in,66,timezone,123,1
+does phoenix have a different timezone,66,timezone,123,1
+what timezone is melbourne in,66,timezone,123,1
+las vegas timezone please,66,timezone,123,1
+tell me the timezone las vegas is in,66,timezone,123,1
+las vegas is in what timezone,66,timezone,123,1
+does the central timezone include austin,66,timezone,123,1
+what timezone is russia in,66,timezone,123,1
+doy ou know what timezone chicago is in,66,timezone,123,1
+for italy what timezone is it in,66,timezone,123,1
+do you know what the timezone is in reno,66,timezone,123,1
+find the applicable timezone for austin,66,timezone,123,1
+i need to know what timezone ireland is in,66,timezone,123,1
+italy's timezone is what,66,timezone,123,1
+i need to know what timezone sedona is in,66,timezone,123,1
+what's chicago's time zone,66,timezone,123,1
+time zone in miami is what like,66,timezone,123,1
+"if you're in melbourne, what timezone are you in",66,timezone,123,1
+can you tell my what france's timezone is,66,timezone,123,1
+in what timezone is nigeria,66,timezone,123,1
+delete my to do list,65,todo_list_update,127,1
+i need to do cleaning so add it to my to do list,65,todo_list_update,127,1
+add dishes to my list,65,todo_list_update,127,1
+place cleaning the backyard on my list of things to do,65,todo_list_update,127,1
+can you put mopping on my to do list,65,todo_list_update,127,1
+will you add mopping to my to do list please,65,todo_list_update,127,1
+throw mopping onto my to do list,65,todo_list_update,127,1
+i want you to clear out my to do list,65,todo_list_update,127,1
+help remind me that i need to add laundry to my list of housework,65,todo_list_update,127,1
+make my todo list blank,65,todo_list_update,127,1
+add change filters to my to do list,65,todo_list_update,127,1
+add mop bathroom to my to do list,65,todo_list_update,127,1
+delete everything from the task list,65,todo_list_update,127,1
+add clean bathroom to my to do list,65,todo_list_update,127,1
+add grocery shopping to my list of things to do,65,todo_list_update,127,1
+add clean the bathroom to my task list,65,todo_list_update,127,1
+make sure my to do list is completely clear please,65,todo_list_update,127,1
+please put cleaning on my list of things to do,65,todo_list_update,127,1
+clear out my entire todo list,65,todo_list_update,127,1
+please erase everything on my to do list,65,todo_list_update,127,1
+is there traffic to work,24,traffic,128,1
+will traffic be light on the way to orlando,24,traffic,128,1
+traffic looking alright going towards burger king,24,traffic,128,1
+what's traffic usually like around 5pm going to the bank,24,traffic,128,1
+what's the traffic like to city hall,24,traffic,128,1
+is the traffic backed up at the closest circle k,24,traffic,128,1
+what is the traffic situation at the olive garden restaurant,24,traffic,128,1
+what's the traffic like on the way to patterson,24,traffic,128,1
+will i hit traffic on route to moms,24,traffic,128,1
+what is the traffic like on the way to makaha,24,traffic,128,1
+tell me how traffic is looking on the interstate,24,traffic,128,1
+how is the traffic on the way to the campsite,24,traffic,128,1
+should i take a different route to work,24,traffic,128,1
+"if i'm heading to the mall at 5:00, what will the traffic be like",24,traffic,128,1
+how is the traffic at jfk at 5 pm on weekdays,24,traffic,128,1
+i would like to know the traffic in tempe please,24,traffic,128,1
+what's the traffic like on the way to the water slides,24,traffic,128,1
+is there any traffic on the way to the bank,24,traffic,128,1
+how bad is city traffic in miami on friday's at 5 pm,24,traffic,128,1
+is the traffic bad on the way to work,24,traffic,128,1
+can i initiate a one-time transfer from my savings account to my money market account,133,transfer,130,0
+i want you to send ten dollars from bank of america to capital one,133,transfer,130,0
+transfer two hundred dollars between my portfolio and my money market account,133,transfer,130,0
+transfer $20000 from my savings account to checking account,133,transfer,130,0
+help me move my money please,133,transfer,130,0
+need to transfer from one account to my other one,133,transfer,130,0
+i need $20000 transferred from my savings to my checking,133,transfer,130,0
+i got to transfer ten dollars from my bank of america account to my capital one account,133,transfer,130,0
+send 100 dollars from checking to savings,133,transfer,130,0
+make a transfer between accounts,133,transfer,130,0
+move 57 dollars from saving into mom,133,transfer,130,0
+put $40 from account a to b,133,transfer,130,0
+transfer money from this account to that account,133,transfer,130,0
+i need you to send ten dollars from bank of america to capital one,133,transfer,130,0
+move 100 dollars from checking to savings,133,transfer,130,0
+i must transfer ten dollars from my bank of america account to my capital one account,133,transfer,130,0
+transfer sixty dollars to dad from my biggest accnt,133,transfer,130,0
+please transfer my funds,133,transfer,130,0
+take $20000 from savings and put it in checking,133,transfer,130,0
+take $40 from account a and transfer it to account b,133,transfer,130,0
+translate english to french hello,61,translate,131,1
+can you translate hello into swedish for me,61,translate,131,1
+what is spanish for good morning,61,translate,131,1
+can you translate milk into spanish for me,61,translate,131,1
+how do they say hello in germany,61,translate,131,1
+i wanna learn a phrase in russian,61,translate,131,1
+can you translate bat into russian for me,61,translate,131,1
+how would i say if i were english subway,61,translate,131,1
+can you translate i have to go pee into korean for me,61,translate,131,1
+what is the correct way to say 'i am a visitor' in french,61,translate,131,1
+how can i say thank you in spanish,61,translate,131,1
+what is the way to say thank you in spanish,61,translate,131,1
+i would like to know how to say hello in french,61,translate,131,1
+"i need you to translate the sentence, 'we will be there soon' into portuguese",61,translate,131,1
+"how do they say ""what's up"" in chinese",61,translate,131,1
+what phrase means goodbye in hawaii,61,translate,131,1
+how could i say twin in chinese,61,translate,131,1
+how would i say goodbye if i were norwegian,61,translate,131,1
+how do you say thank you in german,61,translate,131,1
+tell me how the russians say notebook,61,translate,131,1
+can traveling to nepal be safe (what's safe in x),128,travel_alert,132,1
+i am thinking of going to brazil and was wondering if that is hazardous,128,travel_alert,132,1
+what are today's travel advisories,128,travel_alert,132,1
+do i need to read any travel alerts for kenya,128,travel_alert,132,1
+check travel alerts for kenya,128,travel_alert,132,1
+does kenya have any travel alerts right now,128,travel_alert,132,1
+is there a travel alert for that country,128,travel_alert,132,1
+does finland have any travel alerts i should be aware of,128,travel_alert,132,1
+i'd like to see if there's a travel alert for the country,128,travel_alert,132,1
+are there any travel alerts for china,128,travel_alert,132,1
+what are the currect travel alerts in africa,128,travel_alert,132,1
+does japan have any travel alerts i should be aware of,128,travel_alert,132,1
+does italy have any travel alerts i should be aware of,128,travel_alert,132,1
+are there any travel alerts for syria,128,travel_alert,132,1
+does france have any travel alerts i should be aware of,128,travel_alert,132,1
+does argentina have a travel alert,128,travel_alert,132,1
+have there been any travel alerts issued for france,128,travel_alert,132,1
+what potential hazards are there for going to spain,128,travel_alert,132,1
+look for travel alerts for china,128,travel_alert,132,1
+i am going to australia and want to be notified of any travel alerts,128,travel_alert,132,1
+tell my bank i'm going to france,146,travel_notification,133,0
+tell my bank that i'm going to france,146,travel_notification,133,0
+i need to let my bank know that i'll be travelling internationally,146,travel_notification,133,0
+im going to be in paraguay from january 7th until january 10th,146,travel_notification,133,0
+how can i let my bank know i'm going to denmark,146,travel_notification,133,0
+i need to let my bank know i am traveling to new york,146,travel_notification,133,0
+im going to be in canada from august 10th until august 12th,146,travel_notification,133,0
+i'm going out of the country and need to notify my bank,146,travel_notification,133,0
+i'm travelling to boston soon and want to inform my bank,146,travel_notification,133,0
+tell my bank i will be travelling to the caribbean,146,travel_notification,133,0
+notify my bank that i will be in rome from february 1 to march 1,146,travel_notification,133,0
+i'm traveling between denver and la so tell my bank,146,travel_notification,133,0
+alert my bank and let them know that i'm travelling to brussels,146,travel_notification,133,0
+tell my bank that i'll be in canada this weekend,146,travel_notification,133,0
+the bank should know i am going to asia soon,146,travel_notification,133,0
+"i'll be out of the country soon, and want to notify my bank",146,travel_notification,133,0
+please let my bank know that i will be in rome from february 1 to march 1,146,travel_notification,133,0
+alert my bank and tell them that i'm travelling to paris,146,travel_notification,133,0
+i'm going to be in thailand from october 15th until october 23rd,146,travel_notification,133,0
+i need to let my bank know i am traveling to la,146,travel_notification,133,0
+what's the funnest thing for a tourist to do in iceland,149,travel_suggestion,134,0
+name the five star attractions in gatlinburg,149,travel_suggestion,134,0
+what are some activities to do in chicago,149,travel_suggestion,134,0
+please suggest some fun tourist activities in tokyo,149,travel_suggestion,134,0
+provide me with ideas of things we can do in charlotte,149,travel_suggestion,134,0
+what's fun to do in thailand,149,travel_suggestion,134,0
+can you give me some suggestions to go site seeing when i get there,149,travel_suggestion,134,0
+what are the main attractions in gatlinburg,149,travel_suggestion,134,0
+what fun is there to do in england,149,travel_suggestion,134,0
+are there any fun tourist activities in australia,149,travel_suggestion,134,0
+what are some good restaurants in chicago,149,travel_suggestion,134,0
+what do you recommend to do in vegas,149,travel_suggestion,134,0
+what things are there to do in portland,149,travel_suggestion,134,0
+what are some of the attractions in gatlinburg,149,travel_suggestion,134,0
+what are your best travel suggestions,149,travel_suggestion,134,0
+show me some things to do in gatlinburg,149,travel_suggestion,134,0
+what's the best place to travel to this time of year,149,travel_suggestion,134,0
+are there any exciting tourist things to do in boston,149,travel_suggestion,134,0
+i need help with some fun tourist things to do in tokyo,149,travel_suggestion,134,0
+is there anything fun to do in berlin,149,travel_suggestion,134,0
+put dr feelgood by motley crue on my playlist,141,update_playlist,136,1
+add this song to my top 40 playlist,141,update_playlist,136,1
+will you add what i'm listening to to my work playlist,141,update_playlist,136,1
+can you add passionfruit by yaeji to my playlist,141,update_playlist,136,1
+i want to have happy added to my rb playlist,141,update_playlist,136,1
+get happy on my rb playlist,141,update_playlist,136,1
+transfer happy to my rb playlist,141,update_playlist,136,1
+will you please add cannons by phil wickham to my playlist,141,update_playlist,136,1
+this song needs to be added to my reggae playlist,141,update_playlist,136,1
+add to my playlist smooth operator by sade,141,update_playlist,136,1
+put this song on my reggae playlist,141,update_playlist,136,1
+put this song in vibes playlist,141,update_playlist,136,1
+could you insert broken by evanescence to my music,141,update_playlist,136,1
+please add someday by the strokes to my playlist,141,update_playlist,136,1
+add mia to my spanish playlist,141,update_playlist,136,1
+please add the immigrant song by led zeppelin to my playlist,141,update_playlist,136,1
+can you please add hero by skillet to my playlist,141,update_playlist,136,1
+"include this song in the ""kids"" playlist",141,update_playlist,136,1
+add single ladies by beyonce to my pop playlist,141,update_playlist,136,1
+i gotta add hey jude by the beatles to my playlist,141,update_playlist,136,1
+what would you like to call me,11,user_name,137,2
+do you know my name,11,user_name,137,2
+i wanna know what do you call me,11,user_name,137,2
+say what you think my name is,11,user_name,137,2
+what do you have my name saved under,11,user_name,137,2
+what will you call me,11,user_name,137,2
+what name do you have listed for me,11,user_name,137,2
+let me know the name you have for me,11,user_name,137,2
+what do you say for my name,11,user_name,137,2
+can you tell me what you refer to me as,11,user_name,137,2
+please tell me the name you use for me,11,user_name,137,2
+what name do you use when addressing me,11,user_name,137,2
+so what is my current name saved as,11,user_name,137,2
+what are you going to refer to me as,11,user_name,137,2
+i want you to guess my name,11,user_name,137,2
+tell me my designation,11,user_name,137,2
+by what name people call me,11,user_name,137,2
+you wrote what for my name,11,user_name,137,2
+what name am i under,11,user_name,137,2
+what is the name you have listed for my identity,11,user_name,137,2
+i wish to know your hobbies,15,what_are_your_hobbies,141,0
+"what do you do when you're not working, for fun",15,what_are_your_hobbies,141,0
+what are the things you like to do for fun,15,what_are_your_hobbies,141,0
+what do you like to do in your spare time,15,what_are_your_hobbies,141,0
+what hobbies do you like,15,what_are_your_hobbies,141,0
+do ai have hobbies and if so what are yours,15,what_are_your_hobbies,141,0
+what kinds of things are you into,15,what_are_your_hobbies,141,0
+so what sort of hobbies are you into,15,what_are_your_hobbies,141,0
+what hobbies do you like to partake in,15,what_are_your_hobbies,141,0
+how do you like to spend your free time,15,what_are_your_hobbies,141,0
+is there anything you like to do in your free time,15,what_are_your_hobbies,141,0
+let's talk about your hobbies,15,what_are_your_hobbies,141,0
+what kind of hobbies do you like to do,15,what_are_your_hobbies,141,0
+what do you like to do when you're not working,15,what_are_your_hobbies,141,0
+what you do at the free time,15,what_are_your_hobbies,141,0
+what are some things you like doing,15,what_are_your_hobbies,141,0
+what do you like to do when you have spare time,15,what_are_your_hobbies,141,0
+what types of activities do you enjoy,15,what_are_your_hobbies,141,0
+what do you do for fun,15,what_are_your_hobbies,141,0
+can you tell me about your hobbies,15,what_are_your_hobbies,141,0
+switch to your whispering voice please,14,whisper_mode,146,2
+is it possible for you to whisper for me,14,whisper_mode,146,2
+please use whisper,14,whisper_mode,146,2
+volume to whisper voice,14,whisper_mode,146,2
+please shut off whisper mode for now,14,whisper_mode,146,2
+do not talk so loudly,14,whisper_mode,146,2
+please switch to whisper,14,whisper_mode,146,2
+please talk quietly,14,whisper_mode,146,2
+can you switch out of whisper mode,14,whisper_mode,146,2
+please only use a whisper when speaking,14,whisper_mode,146,2
+shh please speak with a whisper,14,whisper_mode,146,2
+whisper mode off,14,whisper_mode,146,2
+please whisper,14,whisper_mode,146,2
+you need to speak softer,14,whisper_mode,146,2
+don't make too much noise,14,whisper_mode,146,2
+can you whisper,14,whisper_mode,146,2
+go into whisper mode now please,14,whisper_mode,146,2
+turn your volume up,14,whisper_mode,146,2
+i decide to switch out of whisper mode,14,whisper_mode,146,2
+switch to the whisper mode,14,whisper_mode,146,2
